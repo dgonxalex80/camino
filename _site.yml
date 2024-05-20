@@ -1,0 +1,14 @@
+name: "my-website"
+output_dir: "docs"
+navbar:
+  title: "My Website"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+      menu:
+      - text: "Vigilia Pentecostes 2024"
+        href: pentecostes2024.html 
+      - text: "Conviviencia Pentecostes 2024"
+        href: convivencia19052024.html 

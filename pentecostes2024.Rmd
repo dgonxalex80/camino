@@ -1,0 +1,48 @@
+---
+title: "Vigilia Pentecostes"
+author: " "
+date: "2024-05-18"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+</br></br>
+
+
+```{r, echo=FALSE, out.width="100%", fig.align = "center"}
+knitr::include_graphics("img/pentecostes2024/p2.jpeg")
+```
+
+</br></br>
+
+
+```{r, echo=FALSE, out.width="100%", fig.align = "center"}
+knitr::include_graphics("img/pentecostes2024/p3.jpeg")
+```
+
+</br></br>
+
+
+```{r, echo=FALSE, out.width="100%", fig.align = "center"}
+knitr::include_graphics("img/pentecostes2024/p4.jpeg")
+```
+
+</br></br>
+
+
+```{r, echo=FALSE, out.width="100%", fig.align = "center"}
+knitr::include_graphics("img/pentecostes2024/p5.jpeg")
+```
+</br></br>
+
+```{r, echo=FALSE}
+# mp4_file <- "img/pentecostes2024/p1.mp4"
+# cat(sprintf('<video src="%s" type="video/mp4" controls="controls" width="640" height="360"></video>', mp4_file))
+```
+
+<center>
+<video src="img/pentecostes2024/p1.mp4" type="video/mp4" controls="controls" width="640" height="360"></video>
+</center>
