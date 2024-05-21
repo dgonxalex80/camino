@@ -49,10 +49,10 @@ knitr::include_graphics("img/c19052024/co5.jpeg")
 
 
 <center>
-<video src="img/c19052024/v3.mp4" type="video/mp4" controls="controls" width="640" height="360"></video>
+<video src="img/c19052024/v2.mp4" type="video/mp4" controls="controls" width="640" height="360"></video>
 </center>
 
 
 <center>
-<video src="img/pentecostes2024/p11.mp4" type="video/mp4" controls="controls" width="640" height="360"></video>
+<video src="img/c19052024/v3.mp4" type="video/mp4" controls="controls" width="640" height="360"></video>
 </center>
