@@ -1,0 +1,514 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<meta charset="utf-8" />
+<meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+
+
+<meta name="author" content="Daniel Enrique Gonzalez" />
+
+<meta name="date" content="2024-06-18" />
+
+<title>Indicaciones preparación temas</title>
+
+<script src="site_libs/header-attrs-2.26/header-attrs.js"></script>
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/bootstrap.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<style>h1 {font-size: 34px;}
+       h1.title {font-size: 38px;}
+       h2 {font-size: 30px;}
+       h3 {font-size: 24px;}
+       h4 {font-size: 18px;}
+       h5 {font-size: 16px;}
+       h6 {font-size: 12px;}
+       code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
+       pre:not([class]) { background-color: white }</style>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
+
+<style type="text/css">code{white-space: pre;}</style>
+<script type="text/javascript">
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
+}
+</script>
+
+
+
+
+
+
+
+
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+img {
+  max-width:100%;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+summary {
+  display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
+}
+pre code {
+  padding: 0;
+}
+</style>
+
+
+<style type="text/css">
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #adb5bd;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
+}
+</style>
+
+<script type="text/javascript">
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
+
+  // Navbar adjustments
+  var navHeight = $(".navbar").first().height() + 15;
+  var style = document.createElement('style');
+  var pt = "padding-top: " + navHeight + "px; ";
+  var mt = "margin-top: -" + navHeight + "px; ";
+  var css = "";
+  // offset scroll position for anchor links (for fixed navbar)
+  for (var i = 1; i <= 6; i++) {
+    css += ".section h" + i + "{ " + pt + mt + "}\n";
+  }
+  style.innerHTML = "body {" + pt + "padding-bottom: 40px; }\n" + css;
+  document.head.appendChild(style);
+});
+</script>
+
+<!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "\e258";
+  font-family: 'Glyphicons Halflings';
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+  background-color: transparent;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
+<!-- code folding -->
+
+
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
+
+
+
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html">My Website</a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li>
+  <a href="index.html">Home</a>
+</li>
+<li class="dropdown">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+    About
+     
+    <span class="caret"></span>
+  </a>
+  <ul class="dropdown-menu" role="menu">
+    <li>
+      <a href="temas.html">Temas</a>
+    </li>
+    <li>
+      <a href="indicaciones.html">Indicaciones</a>
+    </li>
+  </ul>
+</li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div id="header">
+
+
+
+<h1 class="title toc-ignore">Indicaciones preparación temas</h1>
+<h4 class="author">Daniel Enrique Gonzalez</h4>
+<h4 class="date">2024-06-18</h4>
+
+</div>
+
+
+<p></br></br></p>
+<ul>
+<li><p>Este es un paso hasta el segundo escrutiio hacia el
+catecumenado</p></li>
+<li><p>Este es un tiempo para ver si queremos ser cristianos</p></li>
+<li><p>Todos los esposos(espsas) de las hermanas que no caminan puede
+venir a la comunidad - Palabra/Eucaristia/Convivencia - Si desean hacer
+el tripode cuando se realice una conviviencia de Primer escrutinio
+inscriben su nombre en la BJ</p></li>
+</ul>
+<p></br></p>
+<p><img src="img/etapa1.png" width="60%" style="display: block; margin: auto;" /></p>
+<p></br></br></p>
+<p>Durante este tiempo se preparan temas de la historia de la salvación,
+para ello se divide la comunidad en grupos</p>
+<p>En una bolsa se colocan : Responsables matrimonios: * Gerardo-
+Marlene * Daniel - Adriana * Oneida * Jhon Michel (Miroslava)</p>
+<p>En una segunda bolsa, el resto de los hermanos</p>
+<p>Conformados los grupos, cada uno de ellos tiene dos (2) meses para
+realizar la preparación, para lo cual se reunen de forma continua y
+realizan la entrega en un mes (4 martes)</p>
+<p></br></br></p>
+<div id="cómo-hacer-la-preparación-y-entrega-del-tema"
+class="section level3">
+<h3>Cómo hacer la preparación y entrega del tema</h3>
+<ul>
+<li><strong>Se prepara de la Biblia de Jerusalen</strong></li>
+<li>Si es necesario nos podemos apoyar en materiales como el Diccionario
+Leon Defour, Catesismo, Libros</li>
+<li>Es necesario determinar donde empieza el tema y donde termina</li>
+<li>Se realizan todas las lecturas de corrido</li>
+<li>En una de las reuniones de preparación se escogen las lecturas, se
+proclaman, se realizan ecos y se debinen las noniciones</li>
+</ul>
+<p></br></br></p>
+</div>
+<div id="primera-noche" class="section level3">
+<h3>Primera noche</h3>
+<p>Presentación del tema</p>
+<ul>
+<li><p>Se leligen entre 5 a 7 lecturas, <strong>todas de la
+biblia</strong></p></li>
+<li><p>Preferiblemente la última lectura sea un evangelio - pueden ser
+todos evangelios o la última una carta -</p></li>
+<li><p>Estas lecturas son selecionadas en una noche de preparación del
+grupo</p></li>
+<li><p>Se prepara la asamblea con : cruz, florero, atril, biblia grande
+de jerusalen</p></li>
+<li><p>Presentación del tema:</p>
+<ul>
+<li>Monición ambiental</li>
+<li>Monición / Lectura / Canto</li>
+<li>No se hace ecos</li>
+<li>Oraciones</li>
+<li>Padre Nuestro</li>
+<li>Saludo de paz</li>
+<li>Bendición final</li>
+</ul></li>
+</ul>
+<p></br></p>
+</div>
+<div id="nota" class="section level3">
+<h3>Nota:</h3>
+<p>Debido a que se termina tarde, se autorizó hacer una buena monición
+inicial y lecturas solamente (sin moniciones, ni catos)</p>
+<p></br></br></p>
+</div>
+<div id="segunda-noche" class="section level3">
+<h3>Segunda noche</h3>
+<ul>
+<li>Se realiza una catequesis sobre el tema</li>
+<li>Se divide el tema en partes = número de catequesis = número de
+integrantes de grupo</li>
+<li>10 minutos cada uno - todo oral - no fichas, ni ayudas, ni
+resumenes</li>
+<li>No hay lugar para que ninguno no de catequesis - se pide poder del
+Espiritu Santo</li>
+<li>Se prepara asamblea : cruz, florero, sin atril</li>
+<li>Celebración :
+<ul>
+<li>Oracion inicial</li>
+<li>Invocación al Espiriru Santo</li>
+<li>Catequesis</li>
+<li>Oraciones / Padre Nuestros / Saludo de Paz / Bendición final</li>
+<li>Se socializa los grupos correspondientes a la tercera noche</li>
+</ul></li>
+</ul>
+<p></br></br></p>
+</div>
+<div id="tercera-noche" class="section level3">
+<h3>Tercera noche</h3>
+<ul>
+<li><p>Celebrción doméstica</p></li>
+<li><p>Se divide la comunidad en grupos - los matrimonios no se dividen
+- se meten los nombres de los hermanos que conforman el grupo que
+entrega en una bolsa y el resto en otra bolsa. Se saca un integrante del
+primer grupo (grupo que entrega) y luego se completa el grupo con los
+hermanos contenidos en la segunda bolsa. - esta conformación se comunica
+al finalizar la segunda noche.</p></li>
+<li><p>Cada integrante del grupo que entrega se a casa con un grupo para
+hacer una encuesta</p></li>
+<li><p>Encuesta: Consta de tres (3) preguntas que salen de la
+preparación del tema realizada durante los dos (2) meses. Cada pregunta
+puede tener una cita de apoyo al final de la lectuta de la
+pregunta</p></li>
+<li><p>Cada integrante del grupo que entrega se reune en casa a las 7:00
+pm</p></li>
+<li><p>Celebración en casa</p>
+<ul>
+<li>Invocación al Espiritu Santo - dueño de casa</li>
+<li>Oración</li>
+<li>Se lee primera pregunta - se lee la cita de apoyo … se da tiempo
+corto -</li>
+<li>Cada hermano responde a la pregunta, haciendo referencia a la vida
+…. segunda pregunta … tercera pregunta</li>
+<li>Oraciones / Padre Nuestro / Saludo de Paz / Bendición</li>
+<li>Compartir si se quiere</li>
+</ul>
+<p>No hay cantos Mantel blanco en la mesa</p></li>
+</ul>
+<p></br></br></p>
+</div>
+<div id="cuarta-noche" class="section level3">
+<h3>Cuarta noche</h3>
+<ul>
+<li><p>Celebración de palabra normal</p></li>
+<li><p>El grupo con base en las respuestas de la tercera noche prepara
+la palabra</p></li>
+<li><p>Se escogen : historico / profético / carta / evangelio</p></li>
+<li><p>Celebración</p>
+<ul>
+<li>Monición ambiental</li>
+<li>Monicion - lectura - canto</li>
+<li>Ecos</li>
+<li>Oraciones - antes de las oraciones responsable hace una oración por
+los hermanos que no han podido asistir a la celebración - se leen de la
+Biblia Grande de Jerusalen</li>
+<li>Saludo de Paz</li>
+<li>Bendición final</li>
+</ul></li>
+</ul>
+<p></br></br></p>
+</div>
+<div id="convivencia-cierre-de-tema" class="section level3">
+<h3>Convivencia cierre de tema</h3>
+<ul>
+<li><p>El equipo que entrega prepara la conviviencia, de acuerdo al Ordo
+determina la semana correspondiente para lo laudes</p></li>
+<li><p>Escoge la lectura de la preparación<br />
+</p></li>
+<li><p>Reserva sitio para la conviviencia</p></li>
+<li><p>Todos los hermanos llevamos la biblia de Jerusalen, lapiz y
+cuaderno</p></li>
+<li><p>Celebración</p>
+<ul>
+<li>Monición ambiental - a cargo del grupo que entrega</li>
+<li>Oración</li>
+<li>Laudes - salmos cantados o proclamados</li>
+<li>Benedictus / Oraciones / Paz / Bendición</li>
+</ul></li>
+<li><p>Se continua normalmente con el resto de la
+conviviencia….</p></li>
+<li><p>Al cierre de la convivencia se selecciona el siguente grupo para
+que prepare el siguente tema, entre los hermanos que no se encuentran ni
+entregando , ni preparando</p></li>
+<li><p>Dado que la comunidad es pequeña, para la conformación de los
+grupos a cargo de las celebraciones de los sábados participan todos los
+hermanos expto los que empiezan a entregar.</p></li>
+</ul>
+<p></br></br></p>
+</div>
+<div id="notas-finales" class="section level3">
+<h3>Notas finales</h3>
+<ul>
+<li>El grupo que prepara envia lectuaras al responsable de los
+proclamadores - Daniel</li>
+<li>Tambien envia las leturas al responsalbe de los salmistas (solo
+cuarta noche)- Carlos Alberto -</li>
+</ul>
+<p>Nota:</p>
+<p>Si algun hermano no hace el tripode pasa a la segunda comunidad, en
+caso de que sean muchos, se disuelve la comunidad</p>
+</div>
+
+
+
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open');
+  });
+});
+</script>
+
+<!-- code folding -->
+
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>

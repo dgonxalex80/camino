@@ -8,7 +8,7 @@ navbar:
     - text: "About"
       href: about.html
       menu:
-      - text: "Vigilia Pentecostes 2024"
-        href: pentecostes2024.html 
-      - text: "Conviviencia Pentecostes 2024"
-        href: convivencia19052024.html 
+        - text: "Temas"
+          href: temas.html
+        - text: "Indicaciones"
+          href: indicaciones.html
