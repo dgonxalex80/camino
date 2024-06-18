@@ -21,7 +21,5 @@ knitr::include_graphics("img/maxresdefault-1.jpg")
 </br></br>
 
 <center>
-
-[**Sitio oficial Camino Neocatecumenal**](https://neocatechumenaleiter.org/)
-
+<a href="https://neocatechumenaleiter.org/" target="_blank"><strong>Sitio oficial Camino Neocatecumenal</strong></a>
 </center>
