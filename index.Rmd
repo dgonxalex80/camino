@@ -12,8 +12,16 @@ output:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-</br>
+</br></br>
 
 ```{r, echo=FALSE, out.width="100%", fig.align = "center"}
 knitr::include_graphics("img/maxresdefault-1.jpg")
 ```
+
+</br></br>
+
+<center>
+
+[**Sitio oficial Camino Neocatecumenal**](https://neocatechumenaleiter.org/)
+
+</center>
