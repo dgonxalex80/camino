@@ -20,6 +20,11 @@ knitr::include_graphics("img/maxresdefault-1.jpg")
 
 </br></br>
 
-<center>
-<a href="https://neocatechumenaleiter.org/" target="_blank"><strong>Sitio oficial Camino Neocatecumenal</strong></a>
-</center>
+### <a href="https://neocatechumenaleiter.org/" target="_blank"><strong>Sitio oficial Camino Neocatecumenal</strong></a>
+
+</br>
+
+### <a href="https://gcatholic.org/calendar/2024/CO-es.htm" target="_blank"><strong>Ordo Católico</strong></a>
+
+
+
