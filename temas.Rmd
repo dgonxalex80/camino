@@ -3,8 +3,8 @@ title: "**Celebraciones de Temas**"
 author: " "
 date: " "
 output: 
-  html_document:
-    css: _style.css
+html_document:
+css: _style.css
 ---
 
 
@@ -24,7 +24,7 @@ Equipo : Oneida, Carmen Edith, Carlos Alberto, Maria Graciela
 
 </br></br>
 
-#### **2. EXODO (hasta la llegada al desierto)**
+#### **2. ÉXODO (hasta la llegada al desierto)**
 
 Equipo: Gerardo, Marlene, Amparo, Maria del Carmen, Yolanda
 
@@ -67,7 +67,7 @@ Fechas:
 * 2. Junio 25: Catequesis
 * 3. Julio 2 : Celebración doméstica
 * 4. Julio 9 : Celebración de palabra
-* 5. Julio 14: Conviviencia 
+* 5. Julio 14: Convivencia 
 
 </br></br>
 
@@ -138,4 +138,3 @@ Fechas:
 **Equipo**:
 
 </br></br>
-
