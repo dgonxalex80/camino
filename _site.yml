@@ -17,5 +17,5 @@ navbar:
         - text: "-----------------"
         - text: "Eucaristía"
           href: eucaristia.html
-    - text: "Clasificación"
+    - text: "Clasificación libros"
       href: clasificacion.html
