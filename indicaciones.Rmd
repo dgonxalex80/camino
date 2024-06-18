@@ -1,8 +1,10 @@
 ---
-title: "Indicaciones preparación temas"
+title: "**Indicaciones preparación temas**"
 author: " "
-date: "2024-06-18"
-output: html_document
+date: " "
+output: 
+  html_document:
+    css: _style.css
 ---
 
 ```{r setup, include=FALSE}
@@ -40,7 +42,7 @@ Conformados los grupos, cada uno de ellos tiene dos (2) meses para realizar la p
 
 </br></br>
 
-### Cómo hacer la preparación y entrega del tema
+### **Cómo hacer la preparación y entrega del tema**
 
 * **Se prepara de la Biblia de Jerusalen**
 * Si es necesario nos podemos apoyar en materiales como el Diccionario Leon Defour, Catesismo, Libros 
@@ -50,7 +52,7 @@ Conformados los grupos, cada uno de ellos tiene dos (2) meses para realizar la p
 
 </br></br>
 
-### Primera noche
+### **Primera noche**
 
 Presentación del tema
 
@@ -71,13 +73,13 @@ Presentación del tema
 
 </br>
 
-### Nota: 
+#### **Nota**: 
 
 Debido a que se termina tarde, se autorizó hacer una buena monición inicial y lecturas solamente  (sin moniciones, ni catos)  
 
 </br></br>
 
-###  Segunda noche
+###  **Segunda noche**
 
 * Se realiza una catequesis sobre el tema
 *  Se divide el tema en partes = número de catequesis = número de integrantes de grupo
@@ -93,7 +95,7 @@ Debido a que se termina tarde, se autorizó hacer una buena monición inicial y 
 
 </br></br>
 
-### Tercera noche
+### **Tercera noche**
 
 * Celebrción doméstica
 
@@ -119,13 +121,13 @@ Debido a que se termina tarde, se autorizó hacer una buena monición inicial y 
 
 </br></br>
 
-### Cuarta noche
+### **Cuarta noche**
   
-  * Celebración de palabra normal
-  * El grupo con base en las respuestas de la tercera noche prepara la palabra
-  * Se escogen : historico / profético / carta / evangelio
+  * Celebración de palabra normal  
+  <!-- * El grupo con base en las respuestas de la tercera noche prepara la palabra -->
+  * Se escogen : 1 Historico / 1 Profético / 1 Carta / 1 Evangelio o 1 Carta 
   
-  * Celebración
+  * **Celebración** :
     * Monición ambiental
     * Monicion - lectura - canto
     * Ecos
@@ -135,7 +137,7 @@ Debido a que se termina tarde, se autorizó hacer una buena monición inicial y 
 
 </br></br>
 
-### Convivencia cierre de tema
+### **Convivencia cierre de tema**
 
 * El equipo que entrega prepara la conviviencia, de acuerdo al Ordo determina la semana correspondiente para lo laudes
 * Escoge la lectura de la preparación  
@@ -156,27 +158,13 @@ Debido a que se termina tarde, se autorizó hacer una buena monición inicial y 
 
 </br></br>
 
-### Notas  finales
+#### **Notas  finales**
 
 * El grupo que prepara envia  lectuaras al responsable de los proclamadores - Daniel
+
 * Tambien envia las leturas al responsalbe de los salmistas (solo cuarta noche)- Carlos Alberto -
 
-
-
-
-
-
-
-    
-  
-  
-
-
-
-
-Nota:
-
-Si algun hermano no hace el tripode pasa a la segunda comunidad, en caso de que sean muchos, se disuelve la comunidad
+* Si algun hermano no hace el tripode pasa a la segunda comunidad, en caso de que sean muchos, se disuelve la comunidad
 
 
 

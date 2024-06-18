@@ -1,14 +1,21 @@
-name: "my-website"
+name: "camino"
 output_dir: "docs"
 navbar:
-  title: "My Website"
+  title: "Parroquia San Gabriel Arcangel"
   left:
     - text: "Home"
       href: index.html
-    - text: "About"
-      href: about.html
+    - text: "Celebraciones"
       menu:
         - text: "Temas"
           href: temas.html
         - text: "Indicaciones"
           href: indicaciones.html
+        - text: "-----------------"  
+        - text: "Palabra"
+          href: palabra.html
+        - text: "-----------------"
+        - text: "Eucaristía"
+          href: eucaristia.html
+    - text: "Clasificación"
+      href: clasificacion.html

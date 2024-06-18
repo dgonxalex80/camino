@@ -1,9 +1,12 @@
 ---
-title: "Celebraciones de Temas"
-author: ""
+title: "**Celebraciones de Temas**"
+author: " "
 date: " "
-output: html_document
+output: 
+  html_document:
+    css: _style.css
 ---
+
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
@@ -11,52 +14,52 @@ knitr::opts_chunk$set(echo = TRUE)
 
 </br></br>
 
-##  TEMAS / EQUIPOS
+###  **TEMAS / EQUIPOS**
 
 </br></br>
 
-#### 1. ABRAHAM
+#### **1. ABRAHAM**
 
 Equipo : Oneida, Carmen Edith, Carlos Alberto, Maria Graciela
 
 </br></br>
 
-#### 2. EXODO (hasta la llegada al desierto)
+#### **2. EXODO (hasta la llegada al desierto)**
 
 Equipo: Gerardo, Marlene, Amparo, Maria del Carmen, Yolanda
 
 </br></br>
 
 
-#### 3. ALIANZA del Sinaí
+#### **3. ALIANZA del Sinaí**
 
 Equipo: Daniel, Adriana, Laura, Marlene A, Yolanda
 
 </br></br>
 
-#### 4. CAMINO POR EL DESIERTO
+#### **4. CAMINO POR EL DESIERTO**
 
-Equipo: Jhon Michel, Maruja, Carmen Zoraida, Miroslava, Karen
-
-</br></br>
-
-#### 5. CONQUISTA DE LA TIERRA PROMETIDA (Josué)
-
-Equipo: Oneida, Amparo, Carmen Edith, Gerardo, Marleny
+**Equipo**: Jhon Michel, Maruja, Carmen Zoraida, Miroslava, Karen
 
 </br></br>
 
+#### **5. CONQUISTA DE LA TIERRA PROMETIDA (Josué)**
 
-#### 6. DAVID Y EL REINO
-
-Equipo: Yolanda, Marlene, Adriana, Daniel
+**Equipo**: Oneida, Amparo, Carmen Edith, Gerardo, Marleny
 
 </br></br>
 
 
-#### 7. EXILIO
+#### **6. DAVID Y EL REINO**
 
-Equipo: Carlos Hernan, Zoraida, Tomas, Miroslava
+**Equipo**: Yolanda, Marlene, Adriana, Daniel
+
+</br></br>
+
+
+#### **7. EXILIO**
+
+**Equipo**: Carlos Hernan, Zoraida, Tomas, Miroslava
 
 Fechas:
 
@@ -69,70 +72,70 @@ Fechas:
 </br></br>
 
 
-#### 8. PROFETAS
+#### **8. PROFETAS**
 
-Equipo: Maria Graciela, Maria del Carmen, Oneida, Karen, Amparo
+**Equipo**: Maria Graciela, Maria del Carmen, Oneida, Karen, Amparo
 
 </br></br>
 
 
-#### 9. LOS ORÍGENES (la creación, el mal y el pecado)
+#### **9. LOS ORÍGENES (la creación, el mal y el pecado)**
 
-Equipo: Jhon Michel, Gerardo, Marlene, Carmen Zoraida, Yolanda
+**Equipo**: Jhon Michel, Gerardo, Marlene, Carmen Zoraida, Yolanda
 
 </br></br></br></br>
 
 #### 10. EL MESÍAS
 
-Equipo:
+**Equipo**:
 
 </br></br>
 
 
 
-#### 11. LA RESURRECCIÓN
+#### **11. LA RESURRECCIÓN**
 
-Equipo:
-
-</br></br>
-
-#### 12. LA IGLESIA (sacramentos de salvación)
-
-Equipo:
+**Equipo**:
 
 </br></br>
 
-#### 13. LA IGLESIA PRIMITIVA (los primeros tres siglos)
+#### **12. LA IGLESIA (sacramentos de salvación)**
 
-Equipo:
-
-</br></br>
-
-#### 14. LA IGLESIA DE CONSTANTINO HASTA EL CONCILIO DE TRENTO
-
-
-Equipo:
+**Equipo**:
 
 </br></br>
 
+#### **13. LA IGLESIA PRIMITIVA (los primeros tres siglos)**
 
-#### 15. LA IGLESIA DEL CONCILIO DE TRENTO AL VATICANO II
+**Equipo**:
 
-Equipo:
+</br></br>
+
+#### **14. LA IGLESIA DE CONSTANTINO HASTA EL CONCILIO DE TRENTO**
+
+
+**Equipo**:
 
 </br></br>
 
 
-#### 16. EL CONCILIO VATICANO II
+#### **15. LA IGLESIA DEL CONCILIO DE TRENTO AL VATICANO II**
 
 Equipo:
 
 </br></br>
 
 
-#### 17. LA PERUSÍA
+#### **16. EL CONCILIO VATICANO II**
 
-Equipo:
+**Equipo**:
+
+</br></br>
+
+
+#### **17. LA PERUSÍA**
+
+**Equipo**:
 
 </br></br>
 

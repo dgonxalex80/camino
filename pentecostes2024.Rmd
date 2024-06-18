@@ -1,9 +1,12 @@
 ---
 title: "Vigilia Pentecostes 2024"
 author: " "
-date: "2024-05-18"
-output: html_document
+date: " "
+output: 
+  html_document:
+    css: _style.css
 ---
+
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
