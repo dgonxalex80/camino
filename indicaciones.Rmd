@@ -1,6 +1,6 @@
 ---
 title: "Indicaciones preparación temas"
-author: "Daniel Enrique Gonzalez"
+author: " "
 date: "2024-06-18"
 output: html_document
 ---
@@ -59,8 +59,9 @@ Presentación del tema
 * Estas lecturas son selecionadas en una noche de preparación del grupo
 
 * Se prepara la asamblea con : cruz, florero, atril, biblia grande de jerusalen
+
 * Presentación del tema:
-  * Monición ambiental
+  * Monición ambiental (robusta presentando el tema)
   * Monición / Lectura / Canto
   * No se hace ecos
   * Oraciones
