@@ -20,15 +20,19 @@ knitr::include_graphics("img/maxresdefault-1.jpg")
 
 </br></br>
 
+[![](img/resucito.png){width=20%}](https://neocatechumenaleiter.org/cantoral-resucito/)
+
+</br>
+
 ### <a href="https://neocatechumenaleiter.org/" target="_blank"><strong>Sitio oficial Camino Neocatecumenal</strong></a>
 
 </br>
 
-### <a href="https://neocatechumenaleiter.org/cantoral-resucito/" target="_blank"><strong>RESUCITÓ</strong></a>
+### <a href="https://gcatholic.org/calendar/2024/CO-es.htm" target="_blank"><strong>Ordo Católico</strong></a>
 
 </br>
 
-### <a href="https://gcatholic.org/calendar/2024/CO-es.htm" target="_blank"><strong>Ordo Católico</strong></a>
+### <a href="https://liturgiadelashoras.github.io/" target="_blank"><strong>Liturgia de las horas</strong></a> 
 
 
 
