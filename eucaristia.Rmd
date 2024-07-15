@@ -1,0 +1,53 @@
+---
+title: "Eucaristia"
+output: html_document
+date: " "
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+##### Celebración
+
+1. Monición inicial :
+2. Canto de entrada :
+3. Acto penitencial
+4. Gloria a Dios
+5. Oración
+
+6. Monición primera lectura
+7. Primera lectura
+8. Salmo responsorial
+9. Monición segunda lectura
+10. Segunda lectura
+11. Monición al evangelio
+12. Evangelio
+13. Ecos
+14. Homilia
+15. Proclamación de la fé
+16. Oraciones universales
+  * Por la iglesia
+  * Por los gobernantes
+  * Por los que sufren
+  * Por las comunidades
+17. Beso/abrazo de la paz
+18. Se sirve la mesa : Corporal - pan, vino, calis
+19. Liturgia eucaristica
+  * Anásfora - cantada 
+  * Santo
+  * Amén
+  
+20. Padre nuestro
+21. Fracción del pan - datos de cuantos 
+22. Canto
+23. Comunión con las dos especies
+  * Pan  - canto
+  * Vino - canto
+24. Oración final
+25. Canto final
+26. Avisos responsable
+
+
+
+

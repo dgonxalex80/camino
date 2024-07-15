@@ -1,0 +1,37 @@
+---
+title: "Grupos para celebración de Ecucaristía"
+author: " "
+date: " "
+output: 
+html_document:
+css: _style.css
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+##### **Próximas celebraciones de Eucarístia**
+
+* Fecha:  Julio 20
+* Grupo : Miroslava, Daniel-Adriana, Gerardo-Marlene
+
+</br>
+
+* Fecha: Julio 27
+* Grupo: Carlos Hernan- Zoraida, Marlene, Jhon Michel, Carmen Zoraida, Yolanda
+
+</br>
+
+* Fecha: Agosto 3
+* Grupo: Carmen Edith, Maria del Carmen, Tomas, Carlos Alberto
+
+</br>
+
+* Fecha: Agosto 13 
+* Grupo: Yolanda, Maria del Carmen, Carlos Hernan-Zoraida, Gerardo-Marlene, Tomas
+
+</br>
+
+**Nota** : En caso de que el padre Germán no nos pueda celebrar, se realiza celebración de Palabra

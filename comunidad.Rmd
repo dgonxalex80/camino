@@ -1,0 +1,37 @@
+---
+title: "Comunidad"
+author: " "
+date: " "
+output: 
+html_document:
+css: _style.css
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+#### Primera comunidad de San Gabriel Argancel
+
+
+1.	Daniel Enrique 	González Gómez
+2.	Adriana Corinne	Victoria Ramírez
+3.	Marlene 	Aristizabal
+4.	Gerardo	Saldaña
+5.	Carmen Zoraida	Soto Velasco
+6.	Carmen Edith	Aranda
+7.	Oneida Ilca 	Blandón Lotero
+8.	Maruja 	Diaz Palacio
+9.	Marial del Carmen	Cuellar
+10.	Miroslava 	Sarria Rengifo
+11.	Carlos Alberto	Jordan Muñoz
+12.	Yolanda 	Arango
+13.	Karen Alexandra	Dossman Grisales
+14.	Maria Graciela	Quiceno Ramírez
+15.	Laura	Saldaña
+16.	Amparo	Chates Pedraza
+17.	Maria Marlene	Asprilla de Bonilla
+18.	Tomás	Rodríguez
+19.	Jhon Michel	López Florian
+20.	Zoraida 	Duque
+21.	Carlos Hernan	Uribe

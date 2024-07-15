@@ -1,0 +1,34 @@
+---
+title: "Palabra"
+author: " "
+date: " "
+output: 
+html_document:
+css: _style.css
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+1. Monicion ambiental
+2. Canto de entrada
+3. Oración 
+4. Invocación al espiritu santo
+5. Monición primera lectura
+6. Segunda lectura
+7. Canto respuesta a la segunda lectura
+8. Monición tercera lectura
+9. Tercera lectura
+10. Canto respuesta a la tercera lectura
+11. Monición primera lectura
+12. Primera lectura
+13. Canto respuesta a la primera lectura
+14. Monición al evangelio 
+15. Evangelio
+16. Oraciones - empieza con la oración por los hernamos en lista en la biblia de Jerusalén que no asistienon
+17. Padre nuestro
+18. Saludo de paz
+19. Canto final
+20. Bendición final
+21. Avisos por parte del responsable

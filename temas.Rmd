@@ -16,78 +16,83 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ###  **TEMAS / EQUIPOS**
 
-</br></br>
+<!-- </br></br> -->
 
 #### **1. ABRAHAM**
 
-Equipo : Oneida, Carmen Edith, Carlos Alberto, Maria Graciela
+<!-- Equipo : Oneida, Carmen Edith, Carlos Alberto, Maria Graciela -->
 
-</br></br>
+<!-- </br></br> -->
 
 #### **2. ÉXODO (hasta la llegada al desierto)**
 
-Equipo: Gerardo, Marlene, Amparo, Maria del Carmen, Yolanda
+<!-- Equipo: Gerardo, Marlene, Amparo, Maria del Carmen, Yolanda -->
 
-</br></br>
+<!-- </br></br> -->
 
 
 #### **3. ALIANZA del Sinaí**
 
-Equipo: Daniel, Adriana, Laura, Marlene A, Yolanda
+<!-- Equipo: Daniel, Adriana, Laura, Marlene A, Yolanda -->
 
-</br></br>
+<!-- </br></br> -->
 
 #### **4. CAMINO POR EL DESIERTO**
 
-**Equipo**: Jhon Michel, Maruja, Carmen Zoraida, Miroslava, Karen
+<!-- **Equipo**: Jhon Michel, Maruja, Carmen Zoraida, Miroslava, Karen -->
 
-</br></br>
+<!-- </br></br> -->
 
 #### **5. CONQUISTA DE LA TIERRA PROMETIDA (Josué)**
 
-**Equipo**: Oneida, Amparo, Carmen Edith, Gerardo, Marleny
+<!-- **Equipo**: Oneida, Amparo, Carmen Edith, Gerardo, Marleny -->
 
-</br></br>
+<!-- </br></br> -->
 
 
 #### **6. DAVID Y EL REINO**
 
-**Equipo**: Yolanda, Marlene, Adriana, Daniel
+<!-- **Equipo**: Yolanda, Marlene, Adriana, Daniel -->
 
-</br></br>
+<!-- </br></br> -->
 
 
 #### **7. EXILIO**
 
-**Equipo**: Carlos Hernan, Zoraida, Tomas, Miroslava
+<!-- **Equipo**: Carlos Hernan, Zoraida, Tomas, Miroslava -->
 
-Fechas:
 
-* 1. Junio 18: Celebración Palabra
-* 2. Junio 25: Catequesis
-* 3. Julio 2 : Celebración doméstica
-* 4. Julio 9 : Celebración de palabra
-* 5. Julio 14: Convivencia 
+<!-- </br></br> -->
 
-</br></br>
+
+```{r, echo=FALSE, out.width="100%", fig.align = "center"}
+knitr::include_graphics("img/separador.png")
+```
 
 
 #### **8. PROFETAS**
 
 **Equipo**: Maria Graciela, Maria del Carmen, Oneida, Karen, Amparo
 
-</br></br>
+Fechas:
 
+* 1. Martes Junio 23: Celebración Palabra (5 a 7 lecturas)
+* 2. Martes Junio 30: Catequesis
+* 3. Martes Agosto 6  : Celebración doméstica
+* 4. Martes Agosto 13: Celebración de palabra
+* 5. Domingo Agosto 18: Convivencia 
+
+</br></br>
 
 #### **9. LOS ORÍGENES (la creación, el mal y el pecado)**
 
 **Equipo**: Jhon Michel, Gerardo, Marlene, Carmen Zoraida, Yolanda
 
-</br></br></br></br>
+</br></br>
 
 #### **10. EL MESÍAS**
 
-**Equipo**:
+**Equipo**: Carlos Alberto, Tomas, Daniel - Adriana, Carlos Hernan - Zoraida.
 
 </br></br>
 
@@ -133,7 +138,7 @@ Fechas:
 </br></br>
 
 
-#### **17. LA PERUSÍA**
+#### **17. LA PARUSÍA**
 
 **Equipo**:
 

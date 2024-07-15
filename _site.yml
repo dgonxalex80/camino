@@ -5,17 +5,31 @@ navbar:
   left:
     - text: "Home"
       href: index.html
-    - text: "Celebraciones"
+    - text: "Temas"
       menu:
         - text: "Temas"
           href: temas.html
         - text: "Indicaciones"
           href: indicaciones.html
-        - text: "-----------------"  
+        - text: "-----------------" 
+    - text: "Celebraciones"
+      menu:    
+        - text: "-----------------"
+        - text: "Programación"
+          href: programacion.html
+        - text: "-----------------"
         - text: "Palabra"
           href: palabra.html
         - text: "-----------------"
         - text: "Eucaristía"
           href: eucaristia.html
+        - text: "-----------------"
+        - text: "Convivencia"
+          href: convivencia.html         
     - text: "Clasificación libros"
       href: clasificacion.html
+    - text: "Conunidad"
+      href: comunidad.html     
+      
+      
+      
