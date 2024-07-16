@@ -11,7 +11,7 @@ css: _style.css
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-#### Primera comunidad de San Gabriel Argancel
+#### Primera comunidad de San Gabriel Arcangel
 
 
 1.	Daniel Enrique 	González Gómez

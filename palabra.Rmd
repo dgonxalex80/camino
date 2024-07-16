@@ -27,7 +27,7 @@ knitr::opts_chunk$set(echo = TRUE)
 14. Monición al evangelio 
 15. Evangelio - proclama responsable
 16. Ecos de la palabra
-17. Oraciones - empieza con la oración por los hernamos en lista en la biblia de Jerusalén que no asistieron
+17. Oraciones - empieza con la oración por los hermanos en lista en la biblia de Jerusalén que no asistieron
 18. Padre nuestro
 19. Saludo de paz
 20. Canto final
