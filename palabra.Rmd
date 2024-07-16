@@ -11,9 +11,9 @@ css: _style.css
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-1. Monicion ambiental
+1. Monición ambiental
 2. Canto de entrada
-3. Oración 
+3. Oración responsable
 4. Invocación al espiritu santo
 5. Monición primera lectura
 6. Segunda lectura
@@ -25,10 +25,11 @@ knitr::opts_chunk$set(echo = TRUE)
 12. Primera lectura
 13. Canto respuesta a la primera lectura
 14. Monición al evangelio 
-15. Evangelio
-16. Oraciones - empieza con la oración por los hernamos en lista en la biblia de Jerusalén que no asistienon
-17. Padre nuestro
-18. Saludo de paz
-19. Canto final
-20. Bendición final
-21. Avisos por parte del responsable
+15. Evangelio - proclama responsable
+16. Ecos de la palabra
+17. Oraciones - empieza con la oración por los hernamos en lista en la biblia de Jerusalén que no asistieron
+18. Padre nuestro
+19. Saludo de paz
+20. Canto final
+21. Bendición final
+22. Avisos por parte del responsable

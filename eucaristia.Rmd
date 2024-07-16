@@ -22,31 +22,32 @@ knitr::opts_chunk$set(echo = TRUE)
 9. Monición segunda lectura
 10. Segunda lectura
 11. Monición al evangelio
-12. Evangelio
-13. Ecos
-14. Homilia
-15. Proclamación de la fé
-16. Oraciones universales
+12. Aleluya - antifona evangelio
+13. Evangelio
+14. Ecos
+15. Homilia
+16. Proclamación de la fé
+17. Oraciones universales
   * Por la iglesia
   * Por los gobernantes
   * Por los que sufren
   * Por las comunidades
-17. Beso/abrazo de la paz
-18. Se sirve la mesa : Corporal - pan, vino, calis
-19. Liturgia eucaristica
-  * Anásfora - cantada 
+18. Beso/abrazo de la paz
+19. Se sirve la mesa : Corporal - pan, vino, calis
+20. Liturgia eucaristica
+  * Anáfora - cantada 
   * Santo
   * Amén
   
-20. Padre nuestro
-21. Fracción del pan - datos de cuantos 
-22. Canto
-23. Comunión con las dos especies
+21. Padre nuestro
+22. Fracción del pan - datos de cuantos 
+23. Canto
+24. Comunión con las dos especies
   * Pan  - canto
   * Vino - canto
-24. Oración final
-25. Canto final
-26. Avisos responsable
+25. Oración final
+26. Canto final
+27. Avisos responsable
 
 
 

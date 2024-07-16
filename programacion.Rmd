@@ -29,7 +29,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 </br>
 
-* Fecha: Agosto 13 
+* Fecha: Agosto 10
 * Grupo: Yolanda, Maria del Carmen, Carlos Hernan-Zoraida, Gerardo-Marlene, Tomas
 
 </br>

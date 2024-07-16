@@ -72,7 +72,7 @@ knitr::include_graphics("img/separador.png")
 
 #### **8. PROFETAS**
 
-**Equipo**: Maria Graciela, Maria del Carmen, Oneida, Karen, Amparo
+**Equipo**: Maria Graciela, Maria del Carmen, Oneida, Karen, Amparo, Maruja
 
 Fechas:
 
