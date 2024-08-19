@@ -21,7 +21,7 @@ knitr::opts_chunk$set(echo = TRUE)
 </br>
 
 * Fecha :  agosto 31
-* Grupo : Tomas,  Jhon Michel, Carlos Alberto, Karen, Maruna
+* Grupo : Tomas,  Jhon Michel, Carlos Alberto, Karen, Maruja
 
 </br>
 

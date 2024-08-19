@@ -20,9 +20,19 @@ knitr::include_graphics("img/maxresdefault-1.jpg")
 
 </br></br>
 
-[![](img/resucito.png){width=20%}](https://neocatechumenaleiter.org/cantoral-resucito/)
+### <a href=https://dgonxalex80.github.io/camino/programacion.html target="_blank"><strong>Programación Temas </strong></a>
 
 </br>
+
+### <a href= https://dgonxalex80.github.io/camino/temas.html target="_blank"><strong>Programación celebraciones sábados</strong></a>
+
+
+</br>
+
+[![](img/resucito.png){width=10%}](https://neocatechumenaleiter.org/cantoral-resucito/)
+
+</br>
+
 
 ### <a href="https://neocatechumenaleiter.org/" target="_blank"><strong>Sitio oficial Camino Neocatecumenal</strong></a>
 
