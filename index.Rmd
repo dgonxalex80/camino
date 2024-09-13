@@ -18,14 +18,14 @@ knitr::opts_chunk$set(echo = TRUE)
 knitr::include_graphics("img/maxresdefault-1.jpg")
 ```
 
-</br></br>
+</br>
 
-### <a href=https://dgonxalex80.github.io/camino/programacion.html target="_blank"><strong>Programación Temas </strong></a>
+
+### <a href="https://dgonxalex80.github.io/camino/temas.html" target="_blank"><strong>Temas</strong></a>
 
 </br>
 
-### <a href= https://dgonxalex80.github.io/camino/temas.html target="_blank"><strong>Programación celebraciones sábados</strong></a>
-
+### <a href="https://dgonxalex80.github.io/camino/programacion.html" target="_blank"><strong>Programación</strong></a>
 
 </br>
 
