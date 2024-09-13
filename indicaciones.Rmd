@@ -2,8 +2,12 @@
 title: "**Indicaciones preparación temas**"
 author: " "
 date: " "
-output: 
-html_document:
+output:
+  html_document:
+    toc: no
+    toc_depth: 2
+    toc_float: yes
+    theme: cerulean
 css: _style.css
 ---
 

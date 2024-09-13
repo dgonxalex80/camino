@@ -7,7 +7,8 @@ output:
     toc: no
     toc_depth: 2
     toc_float: yes
-    theme: flatly
+    theme: cerulean
+css: _style.css
 ---
   
 
@@ -24,7 +25,17 @@ knitr::include_graphics("img/maxresdefault-1.jpg")
 
 </br>
 
-[![](img/resucito.png){width=10%}](https://neocatechumenaleiter.org/cantoral-resucito/)
+### <a href="https://dgonxalex80.github.io/camino/temas.html" target="_blank"><strong>Temas</strong></a>
+
+</br>
+
+### <a href="https://dgonxalex80.github.io/camino/programacion.html" target="_blank"><strong>Programación celebraciones sábados</strong></a>
+
+</br>
+
+### <a href="https://neocatechumenaleiter.org/cantoral-resucito/" target="_blank"><strong>Cantoral Resucitó</strong></a>
+
+
 
 </br>
 
