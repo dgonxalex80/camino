@@ -2,10 +2,14 @@
 title: "**Camino Neocatecumenal**"
 author: " "
 date: " "
-output: 
+output:
   html_document:
-    css: _style.css
+    toc: no
+    toc_depth: 2
+    toc_float: yes
+    theme: flatly
 ---
+  
 
 
 ```{r setup, include=FALSE}
@@ -17,15 +21,6 @@ knitr::opts_chunk$set(echo = TRUE)
 ```{r, echo=FALSE, out.width="100%", fig.align = "center"}
 knitr::include_graphics("img/maxresdefault-1.jpg")
 ```
-
-</br>
-
-
-### <a href="https://dgonxalex80.github.io/camino/temas.html" target="_blank"><strong>Temas</strong></a>
-
-</br>
-
-### <a href="https://dgonxalex80.github.io/camino/programacion.html" target="_blank"><strong>Programación</strong></a>
 
 </br>
 
