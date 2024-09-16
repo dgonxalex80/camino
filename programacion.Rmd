@@ -19,24 +19,49 @@ knitr::opts_chunk$set(echo = TRUE)
 ##### **Próximas celebraciones de Eucarístia**
 
 
-* Fecha :  agosto 24
-* Grupo : Carmen Edith, Carlos Hernan, Zoraida, Miroslava, Marlene
-
-</br>
-
-* Fecha :  agosto 31
-* Grupo : Tomas,  Jhon Michel, Carlos Alberto, Karen, Maruja
+* Fecha : septiembe 21
+* Grupo : Yolanda, María del Carmen, Amparo, Carmen Edith, Gerardo, Marlene
 
 </br>
 
 
-* Fecha :  septiembre 7 
-* Grupo :  Oneida, Amparo, Daniel, Adriana
+* Fecha : septiembre 28
+* Grupo : Carlos Hernan, Zoraida, Marlene, Oneida, María Graciela, Carmen Zoraida
 
 </br>
 
-* Fecha : septiembre 14
-* Grupo : Marial del Carmen, Karen, Marlene, Daniel, Adriana
+
+* Fecha : octubre 5
+* Grupo : Miroslava, Jhon Michel, Karen, Maruja, Marlene, Amparo
+
+</br>
+
+
+* Fecha : octubre 12 
+* Grupo : Carmen Zoraida, Yolanda, Carlos Hernan, Zoraida, Oneida, Carmen Edith
+
+</br>
+
+
+
+<!-- * Fecha :  agosto 24 -->
+<!-- * Grupo : Carmen Edith, Carlos Hernan, Zoraida, Miroslava, Marlene -->
+
+<!-- </br> -->
+
+<!-- * Fecha :  agosto 31 -->
+<!-- * Grupo : Tomas,  Jhon Michel, Carlos Alberto, Karen, Maruja -->
+
+<!-- </br> -->
+
+
+<!-- * Fecha :  septiembre 7  -->
+<!-- * Grupo :  Oneida, Amparo, Daniel, Adriana -->
+
+<!-- </br> -->
+
+<!-- * Fecha : septiembre 14 -->
+<!-- * Grupo : Marial del Carmen, Karen, Marlene, Daniel, Adriana -->
 
 
 

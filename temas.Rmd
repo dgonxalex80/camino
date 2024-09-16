@@ -87,23 +87,35 @@ knitr::include_graphics("img/separador.png")
 <!-- * 5. Domingo Agosto 18: Convivencia  -->
 
 
-#### **9. LOS ORÍGENES (la creación, el mal y el pecado)**
+<!-- #### **9. LOS ORÍGENES (la creación, el mal y el pecado)** -->
 
-**Equipo**: Gerardo, Marlene, Carmen Zoraida, Yolanda.
+<!-- **Equipo**: Gerardo, Marlene, Carmen Zoraida, Yolanda. -->
 
-Fechas :
+<!-- Fechas : -->
 
-* 1. Agosto 20  :  Celebración Palabra ( 5 a 7 lecturas)
-* 2. Agosto 27  :  Catequesis
-* 3. Septiembre 3  :  Celebración domésitca
-* 4. Septiembre 10 :  Celebración Palabra
-* 5. Septiembre 15 : Convivencia
+<!-- * 1. Agosto 20  :  Celebración Palabra ( 5 a 7 lecturas) -->
+<!-- * 2. Agosto 27  :  Catequesis -->
+<!-- * 3. Septiembre 3  :  Celebración domésitca -->
+<!-- * 4. Septiembre 10 :  Celebración Palabra -->
+<!-- * 5. Septiembre 15 : Convivencia -->
 
 </br></br>
 
 #### **10. EL MESÍAS**
 
 **Equipo**: Carlos Alberto, Tomas, Daniel - Adriana.
+
+Fechas:
+
+* 1. septiembre 17 : Celebración de Palabra
+* 2. septiembre 24 : Catequesis
+* 3. octubre 1 : Celebración doméstica 
+* 4. octubre 8 : Celebración de Palabra 
+* 5. octubre 13 Convivencia
+
+
+
+</br>
 
 </br></br>
 
@@ -117,7 +129,7 @@ Fechas :
 
 #### **12. LA IGLESIA (sacramentos de salvación)**
 
-**Equipo**:
+**Equipo**: Maria del Carmen, Jhon Michel, Miroslava, Carmen Edith, Maria Graciela, Marlene, Carmen Zoraida
 
 </br></br>
 
