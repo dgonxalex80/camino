@@ -19,8 +19,8 @@ knitr::opts_chunk$set(echo = TRUE)
 ##### **Próximas celebraciones de Eucarístia**
 
 
-* Fecha : septiembe 21
-* Grupo : Yolanda, María del Carmen, Amparo, Carmen Edith, Gerardo, Marlene
+<!-- * Fecha : septiembe 21 -->
+<!-- * Grupo : Yolanda, María del Carmen, Amparo, Carmen Edith, Gerardo, Marlene -->
 
 </br>
 
