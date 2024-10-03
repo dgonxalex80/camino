@@ -25,10 +25,10 @@ knitr::opts_chunk$set(echo = TRUE)
 </br>
 
 
-* Fecha : septiembre 28
-* Grupo : Carlos Hernan, Zoraida, Marlene, Oneida, María Graciela, Carmen Zoraida
+<!-- * Fecha : septiembre 28 -->
+<!-- * Grupo : Carlos Hernan, Zoraida, Marlene, Oneida, María Graciela, Carmen Zoraida -->
 
-</br>
+<!-- </br> -->
 
 
 * Fecha : octubre 5
