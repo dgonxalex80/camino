@@ -22,16 +22,16 @@ knitr::opts_chunk$set(echo = TRUE)
 6.	Carmen Edith	Aranda
 7.	Oneida Ilca 	Blandón Lotero
 8.	Maruja 	Diaz Palacio
-9.	Marial del Carmen	Cuellar
-10.	Miroslava 	Sarria Rengifo
-11.	Carlos Alberto	Jordan Muñoz
-12.	Yolanda 	Arango
-13.	Karen Alexandra	Dossman Grisales
-14.	Maria Graciela	Quiceno Ramírez
-15.	Laura	Saldaña
-16.	Amparo	Chates Pedraza
-17.	Maria Marlene	Asprilla de Bonilla
-18.	Tomás	Rodríguez
-19.	Jhon Michel	López Florian
-20.	Zoraida 	Duque
-21.	Carlos Hernan	Uribe
+9.	Miroslava 	Sarria Rengifo
+10.	Carlos Alberto	Jordan Muñoz
+11.	Yolanda 	Arango
+12.	Amparo	Chates Pedraza
+13.	Maria Marlene	Asprilla de Bonilla
+14.	Tomás	Rodríguez
+15.	Zoraida 	Duque
+16.	Carlos Hernan	Uribe
+17.	Karen Alexandra	Dossman Grisales
+18.	Maria del Carmen	Cuellar
+19.	Maria Graciela	Quiceno Ramírez
+20.	Jhon Michel	López Florian
+<!-- 21.	Laura	Saldaña -->

@@ -18,11 +18,38 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ##### **Próximas celebraciones de Eucarístia**
 
+* Fecha: octubre 26
+* Grupo: Maria Graciela, Miroslava, Tomás, Yolanda, Carmen Zoraida
+* Hora : 7:00 pm
+
+</br>
+
+* Fecha: noviembre 5
+* Grupo: Carlos Alberto, Gerardo, Marleny, Daniel, Adriana, Jhon Michel
+* Hora : 7:00 pm
+
+</br>
+
+
+* Fecha: noviembre 9
+* Grupo: Maria del Carmen, Karen, Carmen Edith, Miroslava, Carmen Zoraida, Yolanda
+* Hora : 7:00 pm
+
+</br>
+
+
+* Fecha: noviembre 16
+* Grupo: Carlos Alberto, Carmen Edith, Jhon Michel, Maria Graciela, Daniel, Adriana, Gerardo, Marlene
+* Hora : 7:00 pm
+
+</br>
+
+
 
 <!-- * Fecha : septiembe 21 -->
 <!-- * Grupo : Yolanda, María del Carmen, Amparo, Carmen Edith, Gerardo, Marlene -->
 
-</br>
+
 
 
 <!-- * Fecha : septiembre 28 -->
@@ -31,16 +58,16 @@ knitr::opts_chunk$set(echo = TRUE)
 <!-- </br> -->
 
 
-* Fecha : octubre 5
-* Grupo : Miroslava, Jhon Michel, Karen, Maruja, Marlene, Amparo
+<!-- * Fecha : octubre 5 -->
+<!-- * Grupo : Miroslava, Jhon Michel, Karen, Maruja, Marlene, Amparo -->
 
-</br>
+<!-- </br> -->
 
 
-* Fecha : octubre 12 
-* Grupo : Carmen Zoraida, Yolanda, Carlos Hernan, Zoraida, Oneida, Carmen Edith
+<!-- * Fecha : octubre 12  -->
+<!-- * Grupo : Carmen Zoraida, Yolanda, Carlos Hernan, Zoraida, Oneida, Carmen Edith -->
 
-</br>
+<!-- </br> -->
 
 
 

@@ -99,19 +99,19 @@ knitr::include_graphics("img/separador.png")
 <!-- * 4. Septiembre 10 :  Celebración Palabra -->
 <!-- * 5. Septiembre 15 : Convivencia -->
 
-</br></br>
+<!-- </br></br> -->
 
-#### **10. EL MESÍAS**
+<!-- #### **10. EL MESÍAS** -->
 
-**Equipo**: Carlos Alberto, Tomas, Daniel - Adriana.
+<!-- **Equipo**: Carlos Alberto, Tomas, Daniel - Adriana. -->
 
-Fechas:
+<!-- Fechas: -->
 
-* 1. septiembre 17 : Celebración de Palabra
-* 2. septiembre 24 : Catequesis
-* 3. octubre 1 : Celebración doméstica 
-* 4. octubre 8 : Celebración de Palabra 
-* 5. octubre 13 Convivencia
+<!-- * 1. septiembre 17 : Celebración de Palabra -->
+<!-- * 2. septiembre 24 : Catequesis -->
+<!-- * 3. octubre 1 : Celebración doméstica  -->
+<!-- * 4. octubre 8 : Celebración de Palabra  -->
+<!-- * 5. octubre 13 Convivencia -->
 
 
 
@@ -119,11 +119,16 @@ Fechas:
 
 </br></br>
 
-
-
 #### **11. LA RESURRECCIÓN**
 
 **Equipo**: Oneida, Marlene, Jhon Michel, Amparo, Maruja, Carlos Hernan - Zoraida.
+
+* 1. octubre 22    : Celebración de Palabra
+* 2. octubre 29    : Catequesis
+* 3. noviembre 5   : Celebración doméstica
+* 4. noviembre 12  : Celebración de Palabra
+* 5. noviembre 17  : Convivencia
+
 
 </br></br>
 
@@ -131,11 +136,25 @@ Fechas:
 
 **Equipo**: Maria del Carmen, Jhon Michel, Miroslava, Carmen Edith, Maria Graciela, Gerardo - Marlene,  Carmen Zoraida
 
+
+<!-- * 1.  : Celebración de Palabra -->
+<!-- * 2.  : Catequesis -->
+<!-- * 3.  : Celebración doméstica -->
+<!-- * 4.  : Celebración de Palabra -->
+<!-- * 5.  : Convivencia -->
+
 </br></br>
 
 #### **13. LA IGLESIA PRIMITIVA (los primeros tres siglos)**
 
-**Equipo**:
+**Equipo** : Tomas, Jhon Michel, Maria del Carmen, Maria Geraciela, Yolanda, Daniel, Adriana, Karen
+
+
+<!-- * 1.  : Celebración de Palabra -->
+<!-- * 2.  : Catequesis -->
+<!-- * 3.  : Celebración doméstica -->
+<!-- * 4.  : Celebración de Palabra -->
+<!-- * 5.  : Convivencia -->
 
 </br></br>
 
@@ -144,12 +163,26 @@ Fechas:
 
 **Equipo**:
 
+
+<!-- * 1.  : Celebración de Palabra -->
+<!-- * 2.  : Catequesis -->
+<!-- * 3.  : Celebración doméstica -->
+<!-- * 4.  : Celebración de Palabra -->
+<!-- * 5.  : Convivencia -->
+
 </br></br>
 
 
 #### **15. LA IGLESIA DEL CONCILIO DE TRENTO AL VATICANO II**
 
 **Equipo**:
+
+
+<!-- * 1.  : Celebración de Palabra -->
+<!-- * 2.  : Catequesis -->
+<!-- * 3.  : Celebración doméstica -->
+<!-- * 4.  : Celebración de Palabra -->
+<!-- * 5.  : Convivencia -->
 
 </br></br>
 
@@ -158,11 +191,25 @@ Fechas:
 
 **Equipo**:
 
+
+<!-- * 1.  : Celebración de Palabra -->
+<!-- * 2.  : Catequesis -->
+<!-- * 3.  : Celebración doméstica -->
+<!-- * 4.  : Celebración de Palabra -->
+<!-- * 5.  : Convivencia -->
+
 </br></br>
 
 
 #### **17. LA PARUSÍA**
 
 **Equipo**:
+
+<!-- * 1.  : Celebración de Palabra -->
+<!-- * 2.  : Catequesis -->
+<!-- * 3.  : Celebración doméstica -->
+<!-- * 4.  : Celebración de Palabra -->
+<!-- * 5.  : Convivencia -->
+
 
 </br></br>
