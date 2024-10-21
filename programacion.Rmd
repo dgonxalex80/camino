@@ -24,7 +24,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 </br>
 
-* Fecha: noviembre 5
+* Fecha: noviembre 2
 * Grupo: Carlos Alberto, Gerardo, Marleny, Daniel, Adriana, Jhon Michel
 * Hora : 7:00 pm
 
