@@ -19,7 +19,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 </br></br>
 
-```{r, echo=FALSE, out.width="100%", fig.align = "center"}
+```{r, echo=FALSE, out.width="70%", fig.align = "center"}
 knitr::include_graphics("img/maxresdefault-1.jpg")
 ```
 
@@ -50,5 +50,7 @@ knitr::include_graphics("img/maxresdefault-1.jpg")
 
 ### <a href="https://liturgiadelashoras.github.io/" target="_blank"><strong>Liturgia de las horas</strong></a> 
 
+
+</br>
 
 
