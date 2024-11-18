@@ -29,7 +29,7 @@ knitr::include_graphics("img/maxresdefault-1.jpg")
 
 </br>
 
-### <a href="https://dgonxalex80.github.io/camino/programacion.html" target="_blank"><strong>Programación celebraciones sábados</strong></a>
+### <a href="https://dgonxalex80.github.io/camino/programacion.html" target="_blank"><strong>Programación celebraciones</strong></a>
 
 </br>
 
