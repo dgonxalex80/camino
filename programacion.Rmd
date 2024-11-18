@@ -24,7 +24,7 @@ knitr::include_graphics("img/calendario_nov_dic_2024.png")
 
 
 #### **Celebración de Palabra** 
-* Palabra : Libertad
+* Palabra : **Libertad**
 * Fecha: Martes 19 de noviembre
 * Hora : 7:00 pm
 * Grupo que prepara: Marlene, Oneida, Carlos Alberto, Maruja, Yolanda
@@ -75,6 +75,7 @@ knitr::include_graphics("img/calendario_nov_dic_2024.png")
 
  
 #### **Celebración de Palabra**
+* Palabra: **Sangre**
 * Fecha: Martes 10 de diciembre
 * Hora : 7:00 pm
 * Grupo que prepara: Jhon Michel, Karen, Maria Graciela, Carlos Alberto, Tomas, Carlos Hernan, Zoraida, Gerardo, Marleny
