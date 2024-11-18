@@ -1,5 +1,5 @@
 ---
-title: "Grupos para celebración de Ecucaristía"
+title: "Programación de Celebraciones"
 author: " "
 date: " "
 output:
@@ -16,33 +16,104 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 
-##### **Próximas celebraciones de Eucarístia**
+##### **Próximas celebraciones**
 
-* Fecha: octubre 26
-* Grupo: Maria Graciela, Miroslava, Tomás, Yolanda, Carmen Zoraida
+```{r, echo=FALSE, out.width="100%", fig.align = "center"}
+knitr::include_graphics("img/calendario_nov_dic_2024.png")
+```
+
+
+#### **Celebración de Palabra** 
+* Palabra : Libertad
+* Fecha: Martes 19 de noviembre
 * Hora : 7:00 pm
+* Grupo que prepara: Marlene, Oneida, Carlos Alberto, Maruja, Yolanda
 
-</br>
 
-* Fecha: noviembre 2
-* Grupo: Carlos Alberto, Gerardo, Marleny, Daniel, Adriana, Jhon Michel
+<br><br>
+
+#### **Celebración de Palabra-Eucaristía**
+* Fecha : Sábado 23 de noviembre 
 * Hora : 7:00 pm
+* Grupo que prepara : Maria del Carmen, Gerardo, Marleny, Amparo, Daniel, Adriana
+ 
+ 
+  <br><br>
 
-</br>
+#### **Anuncio de Adviento**
+* Fecha: Lunes 25 de noviembre
+* **Hora: 7:30 pm**
+
+ 
+ 
+ <br><br>
+ 
+#### **Celebración de Eucaristía**
+* Fecha : 30 de noviembre 
+* Hora: 7:00 pm
+* Grupo que prepara: Carlos Hernan, Zoraida, Miroslava, Carmen Zoraida, Tomas, Carmen Edith
+
+ <br><br>
+ 
+#### **Acto Penitencial**
+* Fecha: Jueves 5 de diciembre
+* Hora: 7:00 pm
+* Grupo que prepara : Equipo de responsables
 
 
-* Fecha: noviembre 9
-* Grupo: Maria del Carmen, Karen, Carmen Edith, Miroslava, Carmen Zoraida, Yolanda
+ <br><br>
+ 
+####  **Eucaristía Conunidad Parroquial -Dia de las velitas**
+* Hora: 6:00 pm
+
+  <br><br>
+  
+#### **Almuerzo en Comuniad**
+* Lugar por definir
+  
+ <br><br>
+
+ 
+#### **Celebración de Palabra**
+* Fecha: Martes 10 de diciembre
 * Hora : 7:00 pm
+* Grupo que prepara: Jhon Michel, Karen, Maria Graciela, Carlos Alberto, Tomas, Carlos Hernan, Zoraida, Gerardo, Marleny
 
-</br>
+
+ <br><br>
+
+#### **Novena de Navidady Santa Misa**
+* Fechas: del 16 al 24 de diciembre
+* Novena a cargo de la comunodad del Camino : 17 de diciembre
+
+ <br><br>
+ 
+ 
+ <!-- * Fecha: octubre 26 -->
+<!-- * Grupo: Maria Graciela, Miroslava, Tomás, Yolanda, Carmen Zoraida -->
+<!-- * Hora : 7:00 pm -->
+
+<!-- </br> -->
+
+<!-- * Fecha: noviembre 2 -->
+<!-- * Grupo: Carlos Alberto, Gerardo, Marleny, Daniel, Adriana, Jhon Michel -->
+<!-- * Hora : 7:00 pm -->
+
+<!-- </br> -->
 
 
-* Fecha: noviembre 16
-* Grupo: Carlos Alberto, Carmen Edith, Jhon Michel, Maria Graciela, Daniel, Adriana, Gerardo, Marlene
-* Hora : 7:00 pm
+<!-- * Fecha: noviembre 9 -->
+<!-- * Grupo: Maria del Carmen, Karen, Carmen Edith, Miroslava, Carmen Zoraida, Yolanda -->
+<!-- * Hora : 7:00 pm -->
 
-</br>
+<!-- </br> -->
+
+
+<!-- * Fecha: noviembre 16 -->
+<!-- * Grupo: Carlos Alberto, Carmen Edith, Jhon Michel, Maria Graciela, Daniel, Adriana, Gerardo, Marlene -->
+<!-- * Hora : 7:00 pm -->
+
+<!-- </br> -->
 
 
 
@@ -113,4 +184,6 @@ knitr::opts_chunk$set(echo = TRUE)
 
 <!-- </br> -->
 
-**Nota** : En caso de que el padre Germán no nos pueda celebrar, se realiza celebración de Palabra
+**Nota** : 
+
+* En caso de que el padre Germán no nos pueda celebrar, se realiza celebración de Palabra
