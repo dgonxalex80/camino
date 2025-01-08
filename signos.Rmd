@@ -1,0 +1,29 @@
+---
+title: "Signos"
+output:
+  html_document:
+    toc: no
+    toc_depth: 2
+    toc_float: yes
+    theme: cerulean
+css: _style.css
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+</br></br>
+
+
+* Icono de la Virgen
+* Cruz
+* Atril
+* Cubre atril 
+  * blanco
+  * verde
+  * rojo
+  * morado
+
+* Alfombra
+* Florero

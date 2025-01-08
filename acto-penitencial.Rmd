@@ -1,0 +1,43 @@
+---
+title: "Acto Penitencial"
+output:
+  html_document:
+    toc: no
+    toc_depth: 2
+    toc_float: yes
+    theme: cerulean
+css: _style.css
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+</br></br>
+
+1. Canto inicial
+2. Monición Ambiental
+3. Oración 
+
+Monición primera lectura
+Primera lectura
+
+
+Salmo
+
+
+Monición segunda lectura
+Segunda lectura
+
+
+Antifona del evangelio
+Evangelio
+
+
+Letanias penitenciales
+
+
+Himno de adviento
+Letanias penitenciales I
+Letanias penitenciales II
+

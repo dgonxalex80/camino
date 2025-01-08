@@ -115,33 +115,33 @@ knitr::include_graphics("img/separador.png")
 
 
 
-</br>
+<!-- </br> -->
 
-</br></br>
+<!-- </br></br> -->
 
-#### **11. LA RESURRECCIÓN**
+<!-- #### **11. LA RESURRECCIÓN** -->
 
-**Equipo**: Oneida, Marlene, Jhon Michel, Amparo, Maruja, Carlos Hernan - Zoraida.
+<!-- **Equipo**: Oneida, Marlene, Jhon Michel, Amparo, Maruja, Carlos Hernan - Zoraida. -->
 
-* 1. octubre 22    : Celebración de Palabra
-* 2. octubre 29    : Catequesis
-* 3. noviembre 5   : Celebración doméstica
-* 4. noviembre 12  : Celebración de Palabra
-* 5. noviembre 17  : Convivencia
+<!-- * 1. octubre 22    : Celebración de Palabra -->
+<!-- * 2. octubre 29    : Catequesis -->
+<!-- * 3. noviembre 5   : Celebración doméstica -->
+<!-- * 4. noviembre 12  : Celebración de Palabra -->
+<!-- * 5. noviembre 17  : Convivencia -->
 
 
 </br></br>
 
 #### **12. LA IGLESIA (sacramentos de salvación)**
 
-**Equipo**: Maria del Carmen, Jhon Michel, Miroslava, Carmen Edith, Maria Graciela, Gerardo - Marlene,  Carmen Zoraida
+**Equipo**: Maria del Carmen, Jhon Michel, Miroslava, Carmen Edith, Maria Graciela, Gerardo, Marlene,  Carmen Zoraida
 
 
-<!-- * 1.  : Celebración de Palabra -->
-<!-- * 2.  : Catequesis -->
-<!-- * 3.  : Celebración doméstica -->
-<!-- * 4.  : Celebración de Palabra -->
-<!-- * 5.  : Convivencia -->
+* 1. Enero 14  : Celebración de Palabra
+* 2. Enero 21  : Catequesis
+* 3. Enero 28  : Celebración doméstica
+* 4. Febrero 4  : Celebración de Palabra
+* 5. Febrero 9  : Convivencia
 
 </br></br>
 
@@ -161,7 +161,7 @@ knitr::include_graphics("img/separador.png")
 #### **14. LA IGLESIA DE CONSTANTINO HASTA EL CONCILIO DE TRENTO**
 
 
-**Equipo**:
+**Equipo**: Carmen Edith, Oneida, Carlos, Amparo, Carlos Hernan y Zoraida
 
 
 <!-- * 1.  : Celebración de Palabra -->

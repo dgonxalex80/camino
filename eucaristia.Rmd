@@ -15,7 +15,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 </br></br>
 
-### **Celebración**
+### **RITOS INICIALES**
 
 1. Monición inicial :
 
@@ -64,21 +64,26 @@ knitr::opts_chunk$set(echo = TRUE)
 
 **LITURGIA DE LA EUCARISTIA**
 
-20.  Anáfora - cantada 
-  
-  * Santo
-  * Amén
-  
-21. Padre nuestro
-22. Fracción del pan - datos de cuantos 
-23. Canto
-24. Comunión con las dos especies
-  * Pan  - canto
-  * Vino - canto
 
-25. Oración final
-26. Canto final
-27. Avisos responsable
+20. Presentación de los dones
+21. Gran oración eucarística _ Prefacio, Sanctus, Plegaria eucarística - cantada 
+22. Oración del Padre nuestro
+22. El signo de la fracción del Pan (con elevación, mostrandolo a la asamblea)
+23. El signo de la comunión - comunión sacramental sentados, bajo las dos especies 
+* Se hacen cantos correspondienes  
+* Entrega del Cuerpo de Cristo a los hermanos - reciben un trozo de pan ácimo en la mano derecha y poniendo la izquierda sobre ella  
+* Una vez distribuida la comunión del Cuerpo de Cristo, el Sacerdote desde la sede, sentado, presenta el Cuerpo de Cristo como el Cordero de Dios que quita el pecado del mundo y pone de manifiesto la dicha por estar invitados a la Cena del Señor
+La Asamblea responde Amen y todos comulgan al mismo tiempo.
+* Para la comunión de la Sangre del Señor se actúa del mismo modo que para el 
+Cuerpo de Cristo.
+
+</br>
+
+**RITO DE CONCLUSIÓN**
+
+24. Oración final
+25. Canto final y dfanza al rededor del altar 
+26. Avisos responsable
 
 </br>
 

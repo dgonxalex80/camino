@@ -22,7 +22,10 @@ knitr::opts_chunk$set(echo = TRUE)
 1. Monición ambiental
 2. Canto de entrada
 3. Oración responsable
-4. Invocación al espiritu santo
+4. Invocación al Espiritu Santo : 
+* Oracion espontanea.....
+* Te lo pedimos invocando tu Santo Espiritu:
+  * Oh Señor envía tu espiritu, que renueve la faz de la tierra (Bis)
 
 </br>
 
@@ -49,19 +52,30 @@ knitr::opts_chunk$set(echo = TRUE)
 
 </br>
 
-16. Ecos de la palabra
+16. Ecos de la palabra : Lo que te dice la palabra recibida - primera persona
 
 </br>
 
-17. Oraciones - empieza con la oración por los hermanos en lista en la biblia de Jerusalén que no asistieron
-18. Padre nuestro
-19. Saludo de paz
-20. Canto final
-21. Bendición final
+17. Homilia, solo si preside un Sacerdote
+
+18. Oraciones 
+* empieza con la oración por los hermanos en lista en la biblia de Jerusalén que no asistieron.
+* en primera persona, manos extendidas 
+  * Te pido Señor .... R/A: Te lo pedimos Señor
+  * Te doy gracias ....R/A: Te damos gracias Señor
+
+* Te entregamos nuestras oraciones y te lo pedimos diciendo ....  
+
+19. Padre nuestro
+20. Saludo de Paz 
+* Los invito a darnos el beso y el abrazo de la Paz
+21. Canto final
+22. Bendición final
+* (Sacerdonte/Responsable) El Señor nos bendiga, nod guarde de todo mal y nos lleve a la vida eterna, Amen.
 
 </br>
 
-22. Avisos por parte del responsable
+23. Avisos por parte del responsable
 
 
 Nota : 
