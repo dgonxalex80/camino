@@ -25,7 +25,10 @@ navbar:
           href: eucaristia.html
         - text: "-----------------"
         - text: "Convivencia"
-          href: convivencia.html         
+          href: convivencia.html  
+        - text: "preparación de Convivencia"
+          href: preparacion-convivencia.html          
+          
     - text: "Clasificación libros"
       href: clasificacion.html
     - text: "Comunidad"

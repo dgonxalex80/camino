@@ -44,7 +44,7 @@ knitr::include_graphics("img/maxresdefault-1.jpg")
 
 </br>
 
-### <a href="https://gcatholic.org/calendar/2024/CO-es.htm" target="_blank"><strong>Ordo Católico</strong></a>
+### <a href="https://gcatholic.org/calendar/2025/CO-es.htm" target="_blank"><strong>Ordo Católico</strong></a>
 
 </br>
 

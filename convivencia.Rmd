@@ -8,7 +8,7 @@ output:
     toc_depth: 2
     toc_float: yes
     theme: cerulean
-css: _style.css
+css: style.css
 ---
 
 ```{r setup, include=FALSE}
@@ -25,14 +25,20 @@ LAUDES : Segun la liturgia de las horas -ver ordo
 4. Salmo 94 - Si hoy escuchais su voz (141) 
 
 5. SALMODIA
-  * Antifona 1 / Salmo  / Gloria al Padre, al Hijo y al Espíritu santo .../ Antifona 1
-  * Antifona 2 / Salmo  / Gloria al Padre, al Hijo y al Espíritu santo .../ Antifona 2 
-  * Antifona 3 / Salmo  / Gloria al Padre, al Hijo y al Espíritu santo .../ Antifona 3
+  * Antifona 1 / **Salmo**  / Gloria al Padre, al Hijo y al Espíritu santo .../ Antifona 1
+  * Antifona 2 / **Salmo**  / Gloria al Padre, al Hijo y al Espíritu santo .../ Antifona 2 
+  * Antifona 3 / **Salmo**  / Gloria al Padre, al Hijo y al Espíritu santo .../ Antifona 3
 
+
+<div class="box-blue">
+<span style='color:#696969'> 
 **Nota** 
 
-* En caso de no ser un salmo no se dice el Gloria  
-* Si el salmo no es un canto, se proclama
+* En caso de no ser un salmo no se dice el Gloria.  
+* Si el salmo no es un canto, se proclama.
+</div>
+
+<br/>
 
 6. Lectura kerigmatica
 * 30 minutos escrutacio - escrutar : leer - escrutar - reflexionar

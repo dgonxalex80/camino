@@ -1,0 +1,158 @@
+---
+title: "LA IGLESIA PRIMITIVA"
+output:
+  pdf_document:
+    latex_engine: xelatex
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+### La Iglesia perseguida / siglos I-III
+
+$\vspace{0.5cm}$
+
+El cristianismo nace en pleno apogeo del Imperio Romano, que ayudó en parte a su rápida difusión y a que se formasen las primeras comunidades cristianas.
+
+Ya hemos comentado cómo el cristianismo surgió como un pequeño brote del «tronco» de la religión judía (cf. Ap 22,16), pero, bajo la guía del Espíritu Santo, fue creciendo y diferenciándose, hasta que pasó a ser una religión autónoma y diferente. Así lo explica Jesús simbólicamente:
+
+«Nadie rompe un vestido nuevo para echar un remiendo a uno viejo; de otro modo, desgarraría el nuevo, y al viejo no le iría el remiendo del nuevo. Nadie echa tampoco vino nuevo en odres viejos; de otro modo, el vino nuevo reventaría los odres, el vino se derramaría, y los odres se echarían a perder; sino que el vino nuevo debe echarse en odres nuevos» (Lc 5,36-38).
+
+La nueva espiritualidad cristiana necesitaba desarrollarse en el seno de una nueva religión. Pero el cristianismo mantuvo lo fundamental del judaísmo: la fe en el único Dios. En efecto, Jesucristo es Hijo del Dios de Abraham, Isaac y Jacob. Por eso el cristianismo aceptó como revelados por Dios los textos sagrados judíos: el Antiguo Testamento. Pero los interpretó desde el punto de vista de los nuevos textos revelados en el ámbito cristiano: el Nuevo Testamento, el cual es considerado como la culminación y plenitud del Antiguo. Por eso dice Jesús al comienzo del Sermón de la Montaña: «No penséis que he venido a abolir la Ley y los Profetas. No he venido a abolir, sino a dar cumplimiento» (Mt 5,17).
+
+
+$\vspace{0.5cm}$
+
+
+#### ¿En qué contexto histórico surge la Iglesia primitiva?
+
+$\vspace{0.5cm}$
+
+El cristianismo nace en pleno apogeo del Imperio Romano, lo cual, en parte, ayudó a su rápida difusión. Eran tiempos de paz y esplendor, en los que se compartía una cultura común grecorromana, llamada ekumene. En el Imperio se hablaban dos lenguas: el latín, sobre todo en la zona occidental, y el griego, en la zona oriental. Éste último fue el idioma común de la Iglesia en los primeros siglos, ya que ésta se estableció principalmente en Oriente. Ello explica que todo el Nuevo Testamento y la mayoría de los textos de los Padres de la Iglesia estén escritos en griego.
+
+La amplia red de comunicaciones del Imperio permitió a los misioneros cristianos desplazarse con relativa rapidez y comodidad de un lugar a otro. La ausencia de grandes conflictos y guerras ayudó, asimismo, a que se formasen las primeras comunidades cristianas y prosperasen.
+
+Es la llamada Paz Romana. Esto fue así durante los siglos I y II. Después, la decadencia del Imperio trajo consigo conflictos internos y externos que poco a poco dieron fin al Imperio Romano de Occidente en el año 476. En cambio, el Imperio Oriental (Bizancio) sobrevivió diez siglos más, hasta 1453.
+
+La religión de Roma era politeísta y daba culto oficial a los dioses protectores del Imperio. También destacaba el culto que en cada pueblo o ciudad se daba a la divinidad local, pues los habitantes se sentían protegidos por ella. Asimismo, los mandatarios romanos promovían el culto al emperador con el fin de dar cohesión al Imperio y de revestir de autoridad divina las leyes y decretos imperiales, lo cual facilitaba su aceptación y cumplimiento.
+
+
+$\vspace{0.5cm}$
+
+### ¿Cómo influyó la filosofía griega en el cristianismo?
+
+$\vspace{0.5cm}$
+
+Por otra parte, la filosofía griega llevaba siglos creciendo y evolucionando. Dentro de ella se crearon movimientos que proponían una interioridad y una ética alternativas para dar respuesta al ambiente de corrupción moral que se vivía en la sociedad de entonces. Generalmente, estos movimientos filosóficos eran propagados por predicadores itinerantes.
+
+Cuando san Pablo estuvo en Atenas, tomó contacto con dos de las escuelas filosóficas más importantes: el epicureísmo y el estoicismo (cf. Hch 17,18). Había otras escuelas a tener en cuenta: el cinismo, el gnosticismo y el neopitagorismo. Algunos elementos de estas filosofías fueron asumidos exitosamente por el cristianismo y ayudaron a enriquecer su espiritualidad. Sobre todo destaca la aportación del platonismo y el neoplatonismo. Pero, desgraciadamente, hubo aportaciones filosóficas que condujeron a algunos cristianos por caminos erróneos, por lo que la Iglesia tuvo que combatirlas.
+
+
+referencia : https://www.dominicos.org/espiritualidad/historia/la-iglesia-perseguida-siglos-i-iii/
+
+
+$\vspace{2cm}$
+
+### La vida en la primitiva cristiandad
+
+$\vspace{0.5cm}$
+
+El rechazo del Gnosticismo fue la gran victoria doctrinal de la Iglesia primitiva
+
+Por: Redacción Primeros Cristianos | Fuente: www.primeroscristianos.com
+
+$\vspace{0.5cm}$
+
+### 1. Introducción
+
+La expansión del Cristianismo en el mundo antiguo se acomodó a las estructuras y modos de vida propios de la sociedad romana. Examinadas ya la progresiva realización del principio de universalidad cristiana y las relaciones entre la Iglesia y el Imperio pagano, procede ahora exponer los principales aspectos de la vida interna de las cristiandades: su composición social y jerárquica, el gobierno pastoral, la doctrina, la disciplina, el culto litúrgico, etc.
+
+La Roma clásica promovió por doquier, con deliberado propósito, la difusión de la vida urbana: municipios y colonias surgieron en gran número por todas las provincias de un Imperio para el cual urbanización era sinónimo de romanización. El Cristianismo nació en este contexto histórico y las ciudades fueron sede de las primeras comunidades, que constituyeron en ellas iglesias locales. Las comunidades cristianas estaban rodeadas de un entorno pagano hostil, que favorecía su cohesión interna y la solidaridad entre sus miembros. Pero esas iglesias no fueron núcleos perdidos y aislados: la comunión y la comunicación entre ellas era real y todas tenían un vivo sentido de hallarse integradas en una misma Iglesia universal, la única Iglesia fundada por Jesucristo.
+
+
+$\vspace{0.5cm}$
+
+### 2. Jerarquía y unidad de la Iglesia Primitiva
+
+$\vspace{0.5cm}$
+
+Muchas iglesias del siglo I fueron fundadas por los Apóstoles y, mientras éstos vivieron, permanecieron bajo su autoridad superior, dirigidas por un «colegio» de presbíteros que ordenaba su vida litúrgica y disciplinar. Este régimen puede atestiguarse especialmente en las iglesias «paulinas», fundadas por el Apóstol de las Gentes. Pero a medida que los Apóstoles desaparecieron, se generalizó en todas partes el episcopado local monárquico, que ya se había introducido desde un primer momento en otras iglesias particulares. El obispo era el jefe de la iglesia, pastor de los fieles y, en cuanto sucesor de los Apóstoles, poseía la plenitud del sacerdocio y la potestad necesaria para el gobierno de la comunidad.
+
+La clave de la unidad de las iglesias dispersas por el orbe, que las integraba en una sola Iglesia universal, fue la institución del Primado romano. Cristo, Fundador de la Iglesia —tal como se recordó en otro lugar—, escogió al Apóstol Pedro como la roca firme sobre la que habría de asentarse la Iglesia. Pero el Primado conferido por Cristo a Pedro no era, de ningún modo, una institución efímera y circunstancial, destinada a extinguirse con la vida del Apóstol. Era una institución permanente, prenda de la perennidad de la Iglesia y válida hasta el fin de los tiempos.
+
+Pedro fue el primer obispo de Roma, y sus sucesores en la Cátedra romana fueron también sucesores en la prerrogativa del Primado, que confirió a la Iglesia la constitución jerárquica, querida para siempre por Jesucristo. La Iglesia romana fue, por tanto —y para todos los tiempos—, centro de unidad de la Iglesia universal.
+
+$\vspace{0.5cm}$
+
+### 3. El ejercicio del Primado
+
+El ejercicio del Primado romano ha estado lógicamente condicionado, a lo largo de los siglos, por las circunstancias históricas. En épocas de persecución o de difíciles comunicaciones entre los pueblos, aquel ejercicio fue menos fácil e intenso que en otros momentos más propicios. Pero la historia permite documentar, desde la primera hora, tanto el reconocimiento por las demás iglesias de la preeminencia que correspondía a la Iglesia romana, como la conciencia que los obispos de Roma tenían de su Primacía sobre la Iglesia universal.
+
+A principios del siglo II, San Ignacio, obispo de Antioquía, escribía que la Iglesia romana es la Iglesia «puesta a la cabeza de la caridad», atribuyéndole así un derecho de supremacía eclesiástica universal. Para San Ireneo de Lyon, en su tratado «Contra las herejías» (a. 185), la Iglesia de Roma gozaba de una singular preeminencia y era criterio seguro para el conocimiento de la verdadera doctrina de la fe.
+
+De la conciencia que tenían los obispos de Roma de poseer el Primado sobre la Iglesia universal ha quedado un testimonio insigne, que se remonta al siglo I. A raíz de un grave problema interno, surgido en el seno de la comunidad cristiana de Corinto, el papa Clemente I intervino de modo autoritario. La carta escrita por el Papa, prescribiendo aquello que procedía hacer y exigiendo obediencia a sus mandatos, constituye una clara prueba de la conciencia que tenía de su potestad primacial; y no es menos significativa la respetuosa y dócil acogida dispensada por la iglesia de Corinto a la intervención pontificia.
+
+
+$\vspace{0.5cm}$
+
+### 4. Proceso de conversión
+
+$\vspace{0.5cm}$
+
+«Los cristianos no nacen, se hacen», escribió Tertuliano a finales del siglo II. Estas palabras pudieron significar, entre otras cosas, que, en su tiempo, la gran mayoría de los fieles no eran —como serían a partir del siglo IV— hijos de padres cristianos, sino personas nacidas en la gentilidad, venidas a la Iglesia en virtud de una conversión a la fe de Jesucristo. El bautismo —sacramento de incorporación a la Iglesia— constituía entonces el coronamiento de un dilatado proceso de iniciación cristiana.
+
+Este proceso, comenzado por la conversión, proseguía a lo largo del «catecumenado», un tiempo de prueba y de instrucción catequética, instituido de modo regular desde finales del siglo II. La vida litúrgica de los cristianos tenía su centro en el Sacrificio Eucarístico, que se ofrecía por lo menos el día del domingo, bien en una vivienda cristiana —sede de alguna «iglesia doméstica»—, o bien en los lugares destinados al culto, que comenzaron a existir desde el siglo III.
+
+$\vspace{0.5cm}$
+
+### 5. La diversidad cultural entre los cristianos
+
+$\vspace{0.5cm}$
+
+Las antiguas comunidades cristianas estaban constituidas por toda suerte de personas, sin distinción de clase o condición. Desde los tiempos apostólicos, la Iglesia estuvo abierta a judíos y gentiles, pobres y ricos, libres y esclavos. Es cierto que la mayoría de los cristianos de los primeros siglos fueron gentes de humilde condición, y un intelectual pagano hostil al Cristianismo, Celso, se mofaba con desprecio de los tejedores, zapateros, lavanderas y otras gentes sin cultura, propagadores del Evangelio en todos los ambientes.
+
+Pero es un hecho indudable que, desde el siglo I, personalidades de la aristocracia romana abrazaron el Cristianismo. Este hecho, dos siglos más tarde, revestía tal amplitud que uno de los edictos persecutorios del emperador Valeriano estuvo dirigido especialmente contra los senadores, caballeros y funcionarios imperiales que fueran cristianos.
+
+$\vspace{0.5cm}$
+
+### 6. Estructura de las comunidades paleocristianas
+
+$\vspace{0.5cm}$
+
+La estructura interna de las comunidades cristianas era jerárquica. El obispo —jefe de la iglesia local— estaba asistido por el clero, cuyos grados superiores —los órdenes de los presbíteros y los diáconos— eran, como el episcopado, de institución divina. Clérigos menores, asignados a determinadas funciones eclesiásticas, aparecieron en el curso de estos siglos. Los fieles que integraban el Pueblo de Dios eran en su inmensa mayoría cristianos corrientes, pero los había también que se distinguían por una u otra razón.
+
+En la edad apostólica hubo numerosos carismáticos, cristianos que para servicio de la Iglesia recibieron dones extraordinarios del Espíritu Santo. Los carismáticos cumplieron una importante función en la Iglesia primitiva, pero constituían un fenómeno transitorio que se extinguió prácticamente en el primer siglo de la Era cristiana. Mientras duró la época de las persecuciones, gozaron de un especial prestigio los «confesores de la fe», llamados así porque habían «confesado» su fe como los mártires, aunque sobrevivieran a sus prisiones y tormentos.
+
+Todavía procede señalar otros fieles cristianos, cuya vida o ministerios les conferían una particular condición en el seno de las iglesias: las viudas, que desde los tiempos apostólicos formaban un «orden» y atendían a ministerios con mujeres; y los ascetas y las vírgenes, que abrazaban el celibato «por amor del Reino de los Cielos» y constituían —en palabras de San Cipriano— «la porción más gloriosa del rebaño de Cristo».
+
+$\vspace{0.5cm}$
+
+### 7. Apología del cristianismo primitivo
+
+$\vspace{0.5cm}$
+
+Los primeros cristianos sufrieron la dura prueba externa de las persecuciones; internamente, la Iglesia hubo de afrontar otra prueba no menos importante: la defensa de la verdad frente a corrientes ideológicas que trataron de desvirtuar los dogmas fundamentales de la fe cristiana. Las antiguas herejías —que así se llamó a esas corrientes de ideas— pueden dividirse en tres distintos grupos. De una parte, existió un Judeo-cristianismo herético, negador de la divinidad de Jesucristo y de la eficacia redentora de su Muerte, para el cual la misión mesiánica de Jesús habría sido la de llevar el Judaismo a su perfección, por la plena observancia de la Ley.
+
+Un segundo grupo de herejías —de más tardía aparición— se caracterizó por su fanático rigorismo moral, estimulado por la creencia en un inminente fin de los tiempos. En el siglo II, la más conocida de estas herejías fue el Montanismo, aunque en el África latina, de principios del siglo IV, el extremismo rigorista sería todavía uno de los componentes del Donatísmo.
+
+Pero la mayor amenaza que hubo de afrontar la Iglesia cristiana durante la edad de los mártires fue, sin duda, la herejía gnóstica. El Gnosticismo era una gran corriente ideológica tendente al sincretismo religioso, muy de moda en los siglos finales de la Antigüedad. El Gnosticismo —que constituía una verdadera escuela intelectual— se presentaba como una sabiduría superior, al alcance sólo de una minoría de «iniciados». Ante el Cristianismo su propósito fue desvirtuar las verdades de la fe, presentando las doctrinas gnósticas como la expresión de la tradición cristiana más sublime, que Cristo habría reservado para sus discípulos más íntimos. El representante más notable del Gnosticismo cristiano fue Marción. La Iglesia reaccionó con entereza y los Padres Apostólicos demostraron la absoluta incompatibilidad existente entre Cristianismo y Gnosticismo.
+
+
+refencia : https://es.catholic.net/op/articulos/56315/cat/696/la-vida-en-la-primitiva-cristiandad-.html#modal
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

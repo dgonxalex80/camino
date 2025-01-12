@@ -1,0 +1,114 @@
+---
+title: "Preparación de Convivencia"
+author: " "
+date: " "
+output:
+  html_document:
+    toc: no
+    toc_depth: 2
+    toc_float: yes
+    theme: cerulean
+css: style.css
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+<br/>
+
+1. Se incia invocando el Espiritu Santo
+
+<br/>
+
+2. Se consulta en el [**Ordo Católico**]( https://gcatholic.org/calendar/2025/CO-es.htm ) la **Semana correspondiente** al domingo en que se realiza la conviviencia. Puede ser :
+ * Semana I, 
+ * Semana II, 
+ * Semana III  o 
+ * Semana IV
+
+<div class="box-blue">
+<span style='color:#696969'> 
+
+##### **Nota**:
+
+Conociendo la semana se ubica el domingo correspondiente a la conviviencia para determinar la salmodia (salmo o cantico) 
+</div>
+
+<br/><br/>
+
+3. Tambien es necesario conocer el **tiempo litúrgico** que puede corresponder a :
+
+* Tiempo de Adviento,
+* Tiempo de Navidad, 
+* Tiempo Ordinario, 
+* Tiempo de Cuaresma, 
+* Tiempo de Pascua
+
+<div class="box-blue">
+<span style='color:#696969'> 
+
+##### **Nota** : 
+
+Conocer el tiempo se requiere para la selección de la antífona de los salmos
+</div>
+
+<br/><br/>
+
+4. Para el **Cantico evangélico Benedictus** se debe tener en cuenta:
+
+* El domingo correspondiente dependiendo al tiempo litúrgico - información en el Ordo.
+* Año liturgico (2025 - **año C**) 
+
+<div class="box-blue">
+<span style='color:#696969'> 
+
+##### **Nota**: 
+
+Esta antifona se encuentra al final del libro Liturgia de las Oras
+</div>
+
+
+<br/><br/>
+
+5. El equipo lee los salmos acompañados de su respectiva antífona antes y despues de leerlos. Recordar que al finalizar un salmo se recita el Gloria.
+
+<br/>
+
+6. Cada hermano del equipo que prepara la convivencia selecciona un evangelio, abriendo la biblia al azar. 
+
+<br/>
+
+7. Cada hermano lee el evangelio seleccionado
+
+<br/>
+
+8. Se realiza los ecos sobre las palabras leidas  y de ellas se escoje una para ser leida en la conviviencia 
+
+<br/>
+
+9. Se hecen las oraciones
+
+<br/>
+
+10. Saludo de la Paz
+
+<br/>
+
+11. Bendición final
+
+<br/>
+
+12. Se envia al encargado de los salmos la información correspondiente para que asigne los salmista
+
+<br/>
+
+13. Se comparte al Responsable la lectura escogida.
+
+
+
+
+
+
+
+
