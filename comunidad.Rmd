@@ -34,4 +34,4 @@ knitr::opts_chunk$set(echo = TRUE)
 18.	Maria del Carmen	Cuellar
 19.	Maria Graciela	Quiceno Ramírez
 20.	Jhon Michel	López Florian
-<!-- 21.	Laura	Saldaña -->
+21.	Laura	Saldaña 
