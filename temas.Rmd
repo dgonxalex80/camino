@@ -137,24 +137,24 @@ knitr::include_graphics("img/separador.png")
 **Equipo**: Maria del Carmen, Jhon Michel, Miroslava, Carmen Edith, Maria Graciela, Gerardo, Marlene,  Carmen Zoraida
 
 
-* 1. Enero 14  : Celebración de Palabra
-* 2. Enero 21  : Catequesis
-* 3. Enero 28  : Celebración doméstica
-* 4. Febrero 4  : Celebración de Palabra
-* 5. Febrero 9  : Convivencia
+<!-- * 1. Enero 14  : Celebración de Palabra -->
+<!-- * 2. Enero 21  : Catequesis -->
+<!-- * 3. Enero 28  : Celebración doméstica -->
+<!-- * 4. Febrero 4  : Celebración de Palabra -->
+<!-- * 5. Febrero 9  : Convivencia -->
 
 </br></br>
 
-#### **13. LA IGLESIA PRIMITIVA (los primeros tres siglos)**
+#### **13. LA IGLESIA PRIMITIVA (los primeros tres siglos: se leen los padres apostólicos)**
 
-**Equipo** : Tomas, Jhon Michel, Maria del Carmen, Maria Geraciela, Yolanda, Daniel, Adriana, Karen
+**Equipo** : Tomas, Daniel, Adriana, Karen
 
 
-<!-- * 1.  : Celebración de Palabra -->
-<!-- * 2.  : Catequesis -->
-<!-- * 3.  : Celebración doméstica -->
-<!-- * 4.  : Celebración de Palabra -->
-<!-- * 5.  : Convivencia -->
+* 1.  Febrero 11: Celebración de Palabra 
+* 2.  Febrero 18: Catequesis 
+* 3.  Febrero 25: Celebración doméstica 
+* 4.  Marzo 4: Celebración de Palabra 
+* 5.  Marzo 9: Convivencia 
 
 </br></br>
 
@@ -175,7 +175,7 @@ knitr::include_graphics("img/separador.png")
 
 #### **15. LA IGLESIA DEL CONCILIO DE TRENTO AL VATICANO II**
 
-**Equipo**:
+**Equipo**: Maria del Carmen, Gerardo, Marlene, Maria Graciela, Maruja, Maelene, Jhon Michel.
 
 
 <!-- * 1.  : Celebración de Palabra -->

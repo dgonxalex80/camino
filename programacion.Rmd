@@ -19,28 +19,29 @@ knitr::opts_chunk$set(echo = TRUE)
 ##### **Próximas celebraciones**
 
 
-* Fecha: Sábado 18 de Enero
+* **Celebración de Eucaristía**
+* Fecha: Sábado 22 de Febrero
 * Hora : 7:00 pm
-* Grupo que prepara: Karen, Oneida, Maria del Carmen, Amparo, Maruja
+* Grupo que prepara: Amparo, Gerardo, Marlene, Oneida, Marlene.
 
 </br></br>
 
-* Fecha : Sábado 25 de Enero
+* Fecha : Sábado 01 de Marzo
 * Hora : 7:00 pm
-* Grupo que prepara : Carlos Hernan, Zoraida, Daniel, Adriana, Jhon Michel, Carlos Alberto
+* Grupo que prepara : Carlos Hernan, Zoraida, Maria del Carmen, Yolanda, Carmen Zoraida, Carlos Alberto
 
 </br></br>
 
-* Fecha : Sábado 1 de Febrero
+* **Celebración de Eucaristía**
+* Fecha : Sábado 08 de Marzo 
 * Hora : 7:00 pm
-* Grupo que prepara : Yolanda, Maria Graciela, Amparo, Maruja, Marlene
+* Grupo que prepara : Miroslava, Carmen Edith, Maria Graciela, Jhon Michel, Maruja
 
 </br></br>
 
-* Fecha : Sábado 8 de Febrero
+* Fecha : Sábado 15 de Marzo 
 * Hora : 7:00 pm
-* Grupo que prepara : Carlos Hernan, Zoraida, Oneida, John Michel, Daniel, Adriana
-
+* Grupo que prepara : Gerardo, Marlene, Miroslava, Marlene, Carlos Alberto
 
 </br>
 
