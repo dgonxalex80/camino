@@ -1,0 +1,48 @@
+---
+title: "**Celebración Miercoles de ceniza**"
+author: " "
+date: " "
+output:
+  html_document:
+    toc: no
+    toc_depth: 2
+    toc_float: yes
+    theme: cerulean
+css: _style.css
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+Un equipo prepara una celebración de palabra con las lecturas del dia.
+
+### Celebración
+
+* Monición ambiental
+* Canto de entrada
+* Oración e invocación del Espiritu Santo
+* Monición primera lectura
+* Proclamación primera lectura
+* Salmo
+* Monición segunda lectura
+* Proclamación segunda lectura
+* Canto 
+
+* Monición al evangelio
+* Proclamación del evangelio
+
+### Rito de la ceniza
+
+Impocisión de la ceniza
+
+"Conviertete y cree en el evangelio"
+
+* Oraciones
+* Padre nuestro
+* Saludo santo de paz
+* Bendición final
+
+

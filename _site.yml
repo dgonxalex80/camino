@@ -27,7 +27,16 @@ navbar:
         - text: "Convivencia"
           href: convivencia.html  
         - text: "preparación de Convivencia"
-          href: preparacion-convivencia.html          
+          href: preparacion-convivencia.html 
+        - text: "-----------------"
+        - text: "Miercoles de ceniza"
+          href: miercolesdeceniza.html          
+          
+          
+          
+          
+          
+          
           
     - text: "Clasificación libros"
       href: clasificacion.html
