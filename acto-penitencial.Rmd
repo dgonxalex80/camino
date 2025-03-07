@@ -1,5 +1,7 @@
 ---
-title: "Acto Penitencial"
+title: "**Acto Penitencial**"
+author: " "
+date: " "
 output:
   html_document:
     toc: no
@@ -13,31 +15,32 @@ css: _style.css
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-</br></br>
+<br/>
 
-1. Canto inicial
-2. Monición Ambiental
-3. Oración 
+## **Preparación**
 
-Monición primera lectura
-Primera lectura
+* El equipo que prepara escoge 1 lectura para la LITURGUA DE LA PALABRA
 
+* Se prepara una monición ambiental y una monición a la palabra seleccionada
 
-Salmo
+* Ese dia se realiza colecta para el sacerdote y se le entrega 
 
 
-Monición segunda lectura
-Segunda lectura
+<br/><br/> 
+
+## **Asamblea**
+
+Se arma la asamblea con:  
+
+* atril a un lado, 
+* silla para el sacerdote
+* florero con flores de acuerdo a la ocasión
+* cruz
+* alfombra
+* cubre atril morado
+
+<br/><br/>
 
 
-Antifona del evangelio
-Evangelio
 
-
-Letanias penitenciales
-
-
-Himno de adviento
-Letanias penitenciales I
-Letanias penitenciales II
 

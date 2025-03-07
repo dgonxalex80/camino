@@ -16,10 +16,13 @@ css: _style.css
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+## **Preparación**
 
-Un equipo prepara una celebración de palabra con las lecturas del dia.
+Un equipo prepara una celebración de *Palabra* con las lecturas del dia.
 
-### Celebración
+<br/>
+
+## **Celebración**
 
 * Monición ambiental
 * Canto de entrada
@@ -34,11 +37,10 @@ Un equipo prepara una celebración de palabra con las lecturas del dia.
 * Monición al evangelio
 * Proclamación del evangelio
 
-### Rito de la ceniza
+<br/>
 
-Impocisión de la ceniza
-
-"Conviertete y cree en el evangelio"
+* **Rito de la ceniza**
+  * Impocisión de la ceniza : "Conviertete y cree en el evangelio"
 
 * Oraciones
 * Padre nuestro

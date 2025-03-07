@@ -30,14 +30,11 @@ navbar:
           href: preparacion-convivencia.html 
         - text: "-----------------"
         - text: "Miercoles de ceniza"
-          href: miercolesdeceniza.html          
-          
-          
-          
-          
-          
-          
-          
+          href: miercolesdeceniza.html
+        - text: "-----------------"
+        - text: "Acto Penitencial"
+          href: acto-penitencial.html          
+
     - text: "Clasificación libros"
       href: clasificacion.html
     - text: "Comunidad"
