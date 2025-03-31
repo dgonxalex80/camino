@@ -130,45 +130,44 @@ knitr::include_graphics("img/separador.png")
 <!-- * 5. noviembre 17  : Convivencia -->
 
 
-</br></br>
+<!-- </br></br> -->
 
-#### **12. LA IGLESIA (sacramentos de salvación)**
+<!-- #### **12. LA IGLESIA (sacramentos de salvación)** -->
 
-**Equipo**: Maria del Carmen, Jhon Michel, Miroslava, Carmen Edith, Maria Graciela, Gerardo, Marlene,  Carmen Zoraida
+<!-- <!-- **Equipo**: Maria del Carmen, Jhon Michel, Miroslava, Carmen Edith, Maria Graciela, Gerardo, Marlene,  Carmen Zoraida --> 
+
+<!-- <!-- * 1. Enero 14  : Celebración de Palabra --> 
+<!-- <!-- * 2. Enero 21  : Catequesis --> 
+<!-- <!-- * 3. Enero 28  : Celebración doméstica --> 
+<!-- <!-- * 4. Febrero 4  : Celebración de Palabra --> 
+<!-- <!-- * 5. Febrero 9  : Convivencia --> 
+
+<!-- </br></br> -->
+
+<!-- #### **13. LA IGLESIA PRIMITIVA (los primeros tres siglos: se leen los padres apostólicos)** -->
+
+<!-- **Equipo** : Tomas, Daniel, Adriana, Karen -->
 
 
-<!-- * 1. Enero 14  : Celebración de Palabra -->
-<!-- * 2. Enero 21  : Catequesis -->
-<!-- * 3. Enero 28  : Celebración doméstica -->
-<!-- * 4. Febrero 4  : Celebración de Palabra -->
-<!-- * 5. Febrero 9  : Convivencia -->
-
-</br></br>
-
-#### **13. LA IGLESIA PRIMITIVA (los primeros tres siglos: se leen los padres apostólicos)**
-
-**Equipo** : Tomas, Daniel, Adriana, Karen
-
-
-* 1.  Febrero 11: Celebración de Palabra 
-* 2.  Febrero 18: Catequesis 
-* 3.  Febrero 25: Celebración doméstica 
-* 4.  Marzo 4: Celebración de Palabra 
-* 5.  Marzo 9: Convivencia 
+<!-- * 1.  Febrero 11: Celebración de Palabra  -->
+<!-- * 2.  Febrero 18: Catequesis  -->
+<!-- * 3.  Febrero 25: Celebración doméstica  -->
+<!-- * 4.  Marzo 4: Celebración de Palabra  -->
+<!-- * 5.  Marzo 9: Convivencia  -->
 
 </br></br>
 
 #### **14. LA IGLESIA DE CONSTANTINO HASTA EL CONCILIO DE TRENTO**
 
 
-**Equipo**: Carmen Edith, Oneida, Carlos, Amparo, Carlos Hernan y Zoraida
+**Equipo**: Carmen Edith, Oneida, Carlos, Amparo
 
 
-<!-- * 1.  : Celebración de Palabra -->
-<!-- * 2.  : Catequesis -->
-<!-- * 3.  : Celebración doméstica -->
-<!-- * 4.  : Celebración de Palabra -->
-<!-- * 5.  : Convivencia -->
+* 1.  : Mayo 13: Celebración de Palabra
+* 2.  : Mayo 20: Catequesis
+* 3.  : Mayo 27: Celebración doméstica
+* 4.  : Junio 3: Celebración de Palabra
+* 5.  : Junio 8: Convivencia
 
 </br></br>
 
@@ -189,7 +188,7 @@ knitr::include_graphics("img/separador.png")
 
 #### **16. EL CONCILIO VATICANO II**
 
-**Equipo**:
+**Equipo**: Carlos Hernan, Zoraida, Carmen Zoraida, Tomas, Carlos Albeto, Mónica, Marlene, Daniel, Adriana
 
 
 <!-- * 1.  : Celebración de Palabra -->

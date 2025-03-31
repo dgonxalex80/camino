@@ -16,35 +16,88 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 
-##### **Próximas celebraciones**
-
-
-* **Celebración de Eucaristía**
-* Fecha: Sábado 22 de Febrero
-* Hora : 7:00 pm
-* Grupo que prepara: Amparo, Gerardo, Marlene, Oneida, Marlene.
+## **Próximas celebraciones**
 
 </br></br>
 
-* Fecha : Sábado 01 de Marzo
-* Hora : 7:00 pm
-* Grupo que prepara : Carlos Hernan, Zoraida, Maria del Carmen, Yolanda, Carmen Zoraida, Carlos Alberto
+```{r, echo=FALSE, out.width="70%", fig.align = "center"}
+knitr::include_graphics("img/calendario456.png")
+```
+
+
 
 </br></br>
 
-* **Celebración de Eucaristía**
-* Fecha : Sábado 08 de Marzo 
-* Hora : 7:00 pm
-* Grupo que prepara : Miroslava, Carmen Edith, Maria Graciela, Jhon Michel, Maruja
+### **Celebración de palabra**
+
+* Palabra Testimonio 
+* Fecha : martes 01 abril
+* Hora:  7:00 pm 
+* Grupo que prepara: Amparo, Maria del Carmen, Carmen Zoraida, Daniel, Adrina, Maruja y Marlene
 
 </br></br>
 
-* Fecha : Sábado 15 de Marzo 
+### **Celebración de Eucaristía**
+
+* Fecha: sábado 5 de abril
 * Hora : 7:00 pm
-* Grupo que prepara : Gerardo, Marlene, Miroslava, Marlene, Carlos Alberto
+* Grupo que prepara: Carmen Edith, Gerardo, Maelene, Maruja, Maria Graciela, Carlos Hernan,, Zoraida, Yolanda
 
-</br>
 
-**Nota** : 
+</br></br>
 
-* Pendiente de confirmar si hay celebración de Eucaristia o Palabra
+
+### **Anuncio de Pascua**
+
+* Fecha : lunes 07 de abril
+* Lugar: Parroquia de San Gabriel Arcangel 
+* Hora : 7:30 pm
+* Celebramos conjuntamente las comunidades de Santos Apostoles Simón y Judas  y las comunidades de San Gabriel Arcangel.
+* Nota: el anuncio reemplaza la palabra de esta semana
+
+</br></br>
+
+### **Celebraciones de Semana Santa**
+
+#### **Jueves Santo**
+
+* Hora :
+* Grupo que prepara :
+* Lugar: 
+* Equipo que prepara:
+
+
+#### **Viernes Santo**
+
+* Hora :
+* Grupo que prepara :
+* Lugar:
+* Equipo que prepara:
+
+
+</br></br>
+
+#### **Sábado Santo**
+
+</br></br>
+
+#### **Viguilia Pascual**
+
+</br></br>
+
+## **Convivencia de Inicio**
+
+* Fechas:  2,3 y 4 de mayo
+* Lugar: Casa de las Palmas
+
+</br></br>
+
+## **Celebración de Palabra**
+
+* Tema : Iglesia de Constantino hasta concilio de Trento
+* Fecha : martes 13 de mayo 
+* Hora : 7:00 pm
+* Grupo que entrega: Carmen Edith, Oneida, Carlos Alberto, Amparo
+
+
+
