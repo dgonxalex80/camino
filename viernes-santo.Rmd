@@ -10,9 +10,98 @@ css: _style.css
 ---
 
 ```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
+knitr::opts_chunk$set(echo = TRUE, comment = NA)
 ```
 
 </br></br>
 
-### 
+### Celebración
+
+<br/>
+
+##### Monición ambiental
+
+* No hay canto
+
+<br/>
+
+##### Invocación al Espiritu Santo - Oración
+
+</br>
+
+##### Monición primera lectura
+##### Primera lectua
+##### Canto : Himno a la caridad
+
+</br>
+
+##### Monición segunda lectura
+##### Segunda lectura
+##### Canto
+
+</br>
+
+##### Monición tercera lectura
+##### Tercera lectura (Responsable)
+
+Cuando se lea : **E inclinó la cabeza entregó el espiritu...** (Todos se arodillan y se hace una pausa)
+
+<br/>
+
+##### Ecos de la palabra
+
+<br/>
+
+##### Adoración a la cruz
+
+
+* I. Responsable mas dos hermanos
+  
+  * Desde la puertatoma la cruz y 2 velas encendidas a lado y lado
+
+* II. Camina - pausa
+  
+  * **Mirad el arbol de la cruz donde estuvo clavada la salvación de este mundo**
+  * **Venid adorarla**
+  
+* III. Se situa la cruzpara su adoración
+  
+  * Cada hermano besa la parte inferior de la cruz
+  * Se limpia con un purificador
+
+
+##### Bendición
+
+* No hay paz
+* Se promulga el ayuno.  
+* El sábado : almuerzo con la palabra. Hora : 12 m
+
+<br/>
+
+##### Grupos :
+
+<br/>
+
+Colecta de gastos para la Pascua
+
+<br/><br/>
+
+### Cantos
+
+* 1ª.Lectura, ELI, ELI LAMÁ SABACTANÍ - 70, Salmista: Carlos 
+* 2ª.Lectura,  DICE EL SEÑOR A MI SEÑOR - 64, Salmista: Tomás 
+
+##### ADORACION DE LA CRUZ
+
+* HIMNO A LA CRUZ GLORIOSA - 219, Salmista: Marleny
+* IMPROPERIOS - 93, Salmista: Daniel
+* OH JESUS AMOR MIO - 116, Salmista: Tomás 
+* HIJAS DE JERUSALEM - 86, Salmista: Marleny 
+* OH DIOS, TU ERES MI DIOS - 115, Salmista: Tomas
+* COMO OVEJA QUE VE COMO SE LLEVAN SU CORDERITO AL MATADERO - 166-1, Salmista: Daniel
+* SOLO A SOLO - 144, Salmista: Daniel 
+* MARIA MADRE DEL IGLESIA - 104, Salmista: Marleny
+
+
+
+

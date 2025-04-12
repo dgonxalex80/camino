@@ -10,9 +10,113 @@ css: _style.css
 ---
 
 ```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
+knitr::opts_chunk$set(echo = TRUE, comment = NA)
 ```
 
 </br></br>
 
-### 
+### **Celebración**
+
+</br>
+
+##### Monición ambiental
+
+</br>
+
+##### Invocación al Espiritu Santo - Oración
+
+</br>
+
+##### Monición primera lectura
+##### Primera lectua
+##### Canto : Himno a la caridad
+
+</br>
+
+##### Monición segunda lectura
+##### Segunda lectura
+##### Canto
+
+</br>
+
+##### Monición tercera lectura
+##### Tercera lectura
+
+
+##### Ecos de la palabra
+ 
+</br>
+
+##### Yo Pecador (de rodillas)
+ 
+ 
+ Yo confieso ante Dios todo poderoso, 
+ que he pecado mucho de pensamiento, 
+ obra y omisión.
+ 
+ Por mi culpa, por mi culpa, por mi gran culpa.
+ 
+ Por eso ruego a Santa Maria siempre virgen, 
+ a los Angeles, 
+ a los Santos y a ustedes hermanos 
+ que intercedan por mi ante Dios nuestro Señor,
+ 
+ Amén.
+ 
+ </br>
+ 
+##### Lavatorio de los pies 
+
+* Se hace gesto. 
+* Responsable hace el gesto con todos los hermanos. 
+* Cada hermano realiza el gesto por lo menos una vez (no debe hacerlo a todos)
+ 
+ </br>
+ 
+ Se emplea:
+ 
+ * 2 toallas
+ * jarra
+ * ponchera
+ 
+##### Oraciones
+##### Padre nuestro
+ 
+##### Canto
+ 
+##### Bendición
+ 
+ 
+```{r}
+# Gastos aproximados Pascua
+# 16 x $ 110
+
+16*110000
+```
+ 
+</br> </br>
+  
+### Cantos
+
+* Canto entrada : CARITAS CHRISTI URGET NOS, Salmista: Carlos
+* 1a.Lectura : ESTE ES EL MANDAMIENTO MIO, Salmista: Daniel
+* 2a.Lectura : HIMNO A LA KENOSIS, Salmista: Carlos
+
+LAVATORIO:
+
+* HIMNO A LA CARIDAD, Salmista: Carlos
+* AMO AL SEÑOR, Salmista: Marleny
+* EL SEÑOR ES MI PASTOR, Salmista: Tomas
+* ME ENSEÑARÁS EL CAMINO DE LA VIDA, Salmista: Daniel
+* SHALOM LEJ MARIAM, Salmista: Carlos
+* QUIERO CANTAR, Salmista: Tomas
+* BENDECIRE AL SEÑOR EN TODO TIEMPO, Salmista: Daniel 
+* OH SEÑOR NUESTRO DIOS, Salmista: Marleny
+* MIRAD QUE ESTUPENDO, Salmista: Carlos
+* DELANTE DE LOS ANGELES, Salmista: Tomás
+* GRITAD JUBILOSOS, Salmista: Marleny
+* HE ESPERADO EN EL SEÑOR, Salmista: Daniel 
+* QUIEN NOS SEPARA, Salmista: Marleny 
+
+CANTO FINAL, SALVE REINA DE LOS CIELOS, Salmista: Carlos 
+ 

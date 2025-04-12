@@ -30,7 +30,7 @@ knitr::include_graphics("img/calendario456.png")
 
 ### **Celebración de palabra**
 
-* Palabra Testimonio 
+* Palabra: Testimonio 
 * Fecha : martes 01 abril
 * Hora:  7:00 pm 
 * Grupo que prepara: Amparo, Maria del Carmen, Carmen Zoraida, Daniel, Adrina, Maruja y Marlene
