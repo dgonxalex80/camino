@@ -33,7 +33,21 @@ navbar:
           href: miercolesdeceniza.html
         - text: "-----------------"
         - text: "Acto Penitencial"
-          href: acto-penitencial.html          
+          href: acto-penitencial.html
+        - text: "-----------------"
+        - text: "Semana Santa"
+        - text: "Jueves Santo"
+          href: jueves-santo.html
+        - text: "Viernes Santo"
+          href: viernes-santo.html
+          
+          
+          
+          
+          
+          
+          
+          
 
     - text: "Clasificación libros"
       href: clasificacion.html

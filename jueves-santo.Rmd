@@ -73,19 +73,26 @@ knitr::opts_chunk$set(echo = TRUE, comment = NA)
  
  </br>
  
- Se emplea:
+ Se emplea:  toallas,  jarra,  ponchera
  
- * 2 toallas
- * jarra
- * ponchera
+ </br>
  
 ##### Oraciones
+
+ </br>
+ 
 ##### Padre nuestro
+
+ </br>
  
 ##### Canto
  
+ </br>
+ 
 ##### Bendición
  
+
+ </br>
  
 ```{r}
 # Gastos aproximados Pascua
@@ -98,25 +105,30 @@ knitr::opts_chunk$set(echo = TRUE, comment = NA)
   
 ### Cantos
 
-* Canto entrada : CARITAS CHRISTI URGET NOS, Salmista: Carlos
-* 1a.Lectura : ESTE ES EL MANDAMIENTO MIO, Salmista: Daniel
-* 2a.Lectura : HIMNO A LA KENOSIS, Salmista: Carlos
+* Canto entrada : CARITAS CHRISTI URGET NOS - 52, Salmista: Carlos
+* 1a.Lectura : ESTE ES EL MANDAMIENTO MIO - 76, Salmista: Daniel
+* 2a.Lectura : HIMNO A LA KENOSIS - 88, Salmista: Carlos
 
-LAVATORIO:
+ </br>
+ 
+###### LAVATORIO:
 
-* HIMNO A LA CARIDAD, Salmista: Carlos
-* AMO AL SEÑOR, Salmista: Marleny
-* EL SEÑOR ES MI PASTOR, Salmista: Tomas
-* ME ENSEÑARÁS EL CAMINO DE LA VIDA, Salmista: Daniel
-* SHALOM LEJ MARIAM, Salmista: Carlos
-* QUIERO CANTAR, Salmista: Tomas
-* BENDECIRE AL SEÑOR EN TODO TIEMPO, Salmista: Daniel 
-* OH SEÑOR NUESTRO DIOS, Salmista: Marleny
-* MIRAD QUE ESTUPENDO, Salmista: Carlos
-* DELANTE DE LOS ANGELES, Salmista: Tomás
-* GRITAD JUBILOSOS, Salmista: Marleny
-* HE ESPERADO EN EL SEÑOR, Salmista: Daniel 
-* QUIEN NOS SEPARA, Salmista: Marleny 
+* HIMNO A LA CARIDAD  -243, Salmista: Carlos
+* AMO AL SEÑOR - 37, Salmista: Marleny
+* EL SEÑOR ES MI PASTOR - 69, Salmista: Tomas
+* ME ENSEÑARÁS EL CAMINO DE LA VIDA - 107, Salmista: Daniel
+* SHALOM LEJ MARIAM - 138, Salmista: Carlos
+* QUIERO CANTAR - 129, Salmista: Tomas
+* BENDECIRE AL SEÑOR EN TODO TIEMPO - 43, Salmista: Daniel 
+* OH SEÑOR NUESTRO DIOS - 118, Salmista: Marleny
+* MIRAD QUE ESTUPENDO - 109, Salmista: Carlos
+* DELANTE DE LOS ANGELES - 62, Salmista: Tomás
+* GRITAD JUBILOSOS - 81, Salmista: Marleny
+* HE ESPERADO EN EL SEÑOR - 85, Salmista: Daniel 
+* QUIEN NOS SEPARA - 128, Salmista: Marleny 
 
-CANTO FINAL, SALVE REINA DE LOS CIELOS, Salmista: Carlos 
+ </br>
+ 
+###### CANTO FINAL 
+* SALVE REINA DE LOS CIELOS - 132, Salmista: Carlos 
  
