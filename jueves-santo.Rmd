@@ -1,5 +1,5 @@
 ---
-title: "Jueves Santo"
+title: "JUEVES SANTO"
 output:
   html_document:
     toc: no
@@ -9,109 +9,113 @@ output:
 css: _style.css
 ---
 
+
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE, comment = NA)
 ```
 
 </br></br>
 
-### **Celebración**
+### INTRODUCCIÓN
+
+En esta celebración se realiza el signo de amor a los hermanos, acogida, de humildad. Tu no eres más que el hermano de al frente. 
+
+El responsable lava los pies a todos y un hermano hombre lo ayuda con la jarra y el balde. Todos los hermanos deben hacer el signo al menos una vez.
+
+Todos se descalzan un pie.
+
+No se pide perdón, ni se da abrazo, no se dice nada al hermano.
+El único que lava los pies a todos es el sacerdote o el responsable.
+
+La ponchera y la jarra se colocan en el centro de la asamblea. 
+
+Pocas flores, icono de la virgen, cubre atril **blanco**.
+
+Eco a la palabra, se puede hacer un giro como en convivencia en caso de haber juzgado a un hermano. No extenderse tanto en el eco, concretizar. En caso de demorarse el responsable le dice.
+
+En el momento del lavatorios se hacen cantos.
+
+Al final se pasa la bolsa para los gastos de pascua.
+
+
+</br></br>
+
+## CELEBRACIÓN
 
 </br>
 
-##### Monición ambiental
+##### MONICIÓN AMBIENTAL
 
 </br>
 
-##### Invocación al Espiritu Santo - Oración
+##### CANTO DE ENTRADA
+HIMNO A LA CARIDAD  -243, Salmista: Carlos
 
 </br>
 
-##### Monición primera lectura
-##### Primera lectua
-##### Canto : Himno a la caridad
+##### ORACIÓN
 
 </br>
 
-##### Monición segunda lectura
-##### Segunda lectura
-##### Canto
+##### INVOCACIÓN AL ESPÍRITU SANTO 
 
 </br>
 
-##### Monición tercera lectura
-##### Tercera lectura
+##### PRIMERA LECTURA
 
+* Monición primera lectura
+* Primera lectura : Jn 13, 31-38; 14, 1-31 (proclama Gerardo)
+* Canto : ESTE ES EL MANDAMIENTO MIO - 76, Salmista: Daniel
 
-##### Ecos de la palabra
- 
 </br>
 
-##### Yo Pecador (de rodillas)
- 
- 
- Yo confieso ante Dios todo poderoso, 
- que he pecado mucho de pensamiento, 
- obra y omisión.
- 
- Por mi culpa, por mi culpa, por mi gran culpa.
- 
- Por eso ruego a Santa Maria siempre virgen, 
- a los Angeles, 
- a los Santos y a ustedes hermanos 
- que intercedan por mi ante Dios nuestro Señor,
- 
- Amén.
- 
- </br>
- 
-##### Lavatorio de los pies 
+##### SEGUNDA LECTURA
+
+* Monición segunda lectura 
+* Segunda lectura : Jn 15, 1-27; 16, 1-32 (proclama Marlene)
+* Canto : HIMNO A LA KENOSIS - 88, Salmista: Carlos
+
+
+</br>
+
+##### TERCERA LECTURA
+
+* Monición tercera lectura. 
+* Tercera lectura: Jn 13, 1-20 (proclama Daniel)
+
+</br>
+
+##### ECOS DE LA PALABRA - HOMILÍA(si preside sacerdote)
+
+</br>
+
+##### YO PECADOR (de rodillas)
+
+
+Yo confieso ante Dios todo poderoso y ante ustedes hermanos, que he pecado mucho de pensamiento, palabra, obra y omisión.
+
+Por mi culpa, por mi culpa, por mi gran culpa.
+
+Por eso ruego a Santa María siempre virgen, a los Ángeles, a los Santos y a ustedes hermanos 
+que intercedan por mi ante Dios nuestro Señor,
+
+Amén.
+
+</br>
+
+##### LAVATORIO DE LOS PIES 
+
+**Indicaciones al rito, invitando y explicando como se debe realizar**
 
 * Se hace gesto. 
 * Responsable hace el gesto con todos los hermanos. 
 * Cada hermano realiza el gesto por lo menos una vez (no debe hacerlo a todos)
- 
- </br>
- 
- Se emplea:  toallas,  jarra,  ponchera
- 
- </br>
- 
-##### Oraciones
 
- </br>
- 
-##### Padre nuestro
+</br>
 
- </br>
- 
-##### Canto
- 
- </br>
- 
-##### Bendición
- 
+Se emplea:  toallas,  jarra,  ponchera
 
- </br>
- 
-```{r}
-# Gastos aproximados Pascua
-# 16 x $ 110
-
-16*110000
-```
- 
-</br> </br>
-  
-### Cantos
-
-* Canto entrada : CARITAS CHRISTI URGET NOS - 52, Salmista: Carlos
-* 1a.Lectura : ESTE ES EL MANDAMIENTO MIO - 76, Salmista: Daniel
-* 2a.Lectura : HIMNO A LA KENOSIS - 88, Salmista: Carlos
-
- </br>
- 
-###### LAVATORIO:
+##### CANTOS: 
 
 * HIMNO A LA CARIDAD  -243, Salmista: Carlos
 * AMO AL SEÑOR - 37, Salmista: Marleny
@@ -127,8 +131,36 @@ knitr::opts_chunk$set(echo = TRUE, comment = NA)
 * HE ESPERADO EN EL SEÑOR - 85, Salmista: Daniel 
 * QUIEN NOS SEPARA - 128, Salmista: Marleny 
 
- </br>
- 
-###### CANTO FINAL 
+</br>
+
+##### ORACIONES
+
+</br>
+
+##### PADRENUESTRO
+
+</br>
+
+##### CANTO FINAL 
 * SALVE REINA DE LOS CIELOS - 132, Salmista: Carlos 
- 
+
+</br>
+
+##### BENDICIÓN
+
+
+</br>
+
+```{r}
+# Gastos Pascua
+# 16 x $ 110
+
+16*110000
+```
+
+</br> </br>
+
+
+</br>
+
+

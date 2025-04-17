@@ -1,5 +1,5 @@
 ---
-title: "Viernes Santo"
+title: "VIERNES SANTO"
 output:
   html_document:
     toc: no
@@ -13,81 +13,79 @@ css: _style.css
 knitr::opts_chunk$set(echo = TRUE, comment = NA)
 ```
 
+Adoracion a la cruz
+
+Este dia no hay flores
+
+Se emplea : la cruz, purificador, atril, cubri atril **rojo**, dos velones, un cojin rojo, 
+
 </br></br>
 
-### Celebración
+### CELEBRACIÓN
 
 <br/>
 
-##### Monición ambiental
+##### MONICIÓN AMBIENTAL
 
 * No hay canto
 
 <br/>
 
-##### Invocación al Espiritu Santo - Oración
+##### ORACIÓN
+
+<br/>
+
+##### INVOCACIÓN AL ESPIRITU SANTO
 
 </br>
 
-##### Monición primera lectura
-##### Primera lectua
-##### Canto : Himno a la caridad
+##### PRIMERA LECTURA
+
+* Monición primera lectura
+* Primera lectura : Is 52, 13-15; 53, 1-12 (proclama Miroslava)
+* Canto : ELI, ELI LAMÁ SABACTANÍ - 70, Salmista: Carlos 
 
 </br>
 
-##### Monición segunda lectura
-##### Segunda lectura
-##### Canto
+##### SEGUNDA LECTURA
+
+* Monición segunda lectura
+* Segunda lectura: Hb 4, 14-16; 5, 7-9 (proclama Carmen Edith)
+* Canto : DICE EL SEÑOR A MI SEÑOR - 64, Salmista: Tomás 
 
 </br>
 
-##### Monición tercera lectura
-##### Tercera lectura (Responsable)
+##### TERCERA LECTURA
+
+* Monición tercera lectura
+* Tercera lectura (Responsable) : Jn 18, 1-40; 19, 1-42 (proclama Daniel)
+
 
 Cuando se lea : **E inclinó la cabeza entregó el espiritu...** (Todos se arodillan y se hace una pausa)
 
 <br/>
 
-##### Ecos de la palabra
+##### ECOS - HOMILIA (en caso que presida un sacerdote)
 
 <br/>
 
-##### Adoración a la cruz
-
-
-* I. Responsable mas dos hermanos
-  
-  * Desde la puertatoma la cruz y 2 velas encendidas a lado y lado
-
-* II. Camina - pausa
-  
-  * **Mirad el arbol de la cruz donde estuvo clavada la salvación de este mundo**
-  * **Venid adorarla**
-  
-* III. Se situa la cruzpara su adoración
-  
-  * Cada hermano besa la parte inferior de la cruz
-  * Se limpia con un purificador
-
-
-##### Bendición
-
-* No hay paz
-* Se promulga el ayuno.  
-* El sábado : almuerzo con la palabra. Hora : 12 m
+##### ORACIONES UNIVERSALES - Misal
 
 <br/>
 
-Colecta de gastos para la Pascua
+##### ADORACIÓN A LA SANTA CRUZ 
 
-<br/><br/>
+* Responsable más dos hermanos :  Desde la puerta toma la cruz y 2 velones encendidas a lado y lado.
 
-### Cantos
+* Procesión de la cruz (camina - pare) : 
+  * R: **Mirad el árbol de la cruz donde estuvo clavada la salvación de este mundo**, 
+  * A: **Venid adorarla**.
 
-* 1ª.Lectura, ELI, ELI LAMÁ SABACTANÍ - 70, Salmista: Carlos 
-* 2ª.Lectura,  DICE EL SEÑOR A MI SEÑOR - 64, Salmista: Tomás 
 
-##### ADORACION DE LA CRUZ
+* Se situa la cruz para su adoración : Adoración de la cruz : Es un momento, se puede arrodillar, besar y contemplar. Se limpia con un purificador después del beso.
+
+
+### CANTOS
 
 * HIMNO A LA CRUZ GLORIOSA - 219, Salmista: Marleny
 * IMPROPERIOS - 93, Salmista: Daniel
@@ -101,5 +99,58 @@ Colecta de gastos para la Pascua
 
 <br/>
 
-##### Grupos sábado santo :
+##### BENDICIÓN
+
+* No hay paz
+* Se promulga el ayuno.  
+* El sábado : almuerzo con la palabra. Hora : 12 m
+
+<br/>
+
+Colecta de gastos para la Pascua
+
+<br/><br/>
+
+##### GRUPOS SABADO SANTO:
+
+##### GRUPO 1
+
+* Daniel
+* Adriana
+* Carmen Edith
+* Carlos Alberto
+* Amparo
+* Karen
+* Jhon Michel
+
+##### GRUPO 2
+
+* Gerardo
+* Marlene
+* Carmen Zoraida
+* Yolanda
+* Marlene Asprilla
+* Maria Graciela
+
+
+##### GRUPO 3
+
+* Oneida
+* Maruja
+* Miroslava
+* Tomas
+* Maria del Carmen
+* Carlos Hernan
+* Zoraida Duque
+
+
+
+##### Nota:
+
+Se nos pide ayudar a armar la asamblea en el hotel Dann el sábado en la mañana y tambien apoyar lo relacionado con el arreglo de flores y el llenado de la pila bautismal.
+
+Sábado a las 9:00 am
+
+
+
 
