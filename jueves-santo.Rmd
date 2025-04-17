@@ -153,9 +153,9 @@ Se emplea:  toallas,  jarra,  ponchera
 
 ```{r}
 # Gastos Pascua
-# 16 x $ 110
+# 15 x $ 110
 
-16*110000
+15*110000
 ```
 
 </br> </br>
