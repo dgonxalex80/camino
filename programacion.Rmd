@@ -28,76 +28,137 @@ knitr::include_graphics("img/calendario456.png")
 
 </br></br>
 
-### **Celebración de palabra**
 
-* Palabra: Testimonio 
-* Fecha : martes 01 abril
-* Hora:  7:00 pm 
-* Grupo que prepara: Amparo, Maria del Carmen, Carmen Zoraida, Daniel, Adrina, Maruja y Marlene
+
+### **Celebración de Eucaristía**
+
+* Fecha: Sábado 10 de mayo
+* Hora : 7:00 pm
+* Grupo que prepara: Carlos Alberto, Carmen Edith, Maruja y Miroslava
+* Flores: Carmen Zoraida
+* Pan : Adriana
+
+</br></br>
+
+### **Misión en el parque San Judas**
+
+* Fecha : Domingo 11 de mayo
+* Hora: 11:00 am
+* Dirección : Calle 23 entre carrera 49A y carrera 50.
+
+
+</br></br>
+
+### **Catequesis**
+
+* Fecha : Martes 13 de mayo
+* Hora : 7:00 pm
+* Tema : La Iglesia de Constantino hasta el concilio de Trento .
 
 </br></br>
 
 ### **Celebración de Eucaristía**
 
-* Fecha: sábado 5 de abril
+* Fecha: Domingo 17 de mayo
 * Hora : 7:00 pm
-* Grupo que prepara: Carmen Edith, Gerardo, Maelene, Maruja, Maria Graciela, Carlos Hernan,, Zoraida, Yolanda
+* Grupo que prepara: Yolanda, Gerardo, Marlene, Maria Graciela, Amparo, Karen. 
+* Flores: Adriana 
+* Pan : Oneida
+
+</br></br>
+
+### **Misión en el parque San Gabriel**
+
+* Fecha : Domingo 18 de mayo
+* Responsables : Daniel, Adriana
+
+</br>
+
+### **Kermes**
+
+* Fecha : Domingo 18 de mayo
+* Responsables : Gina, Gerardo, Marlene, Oneida
+
 
 
 </br></br>
 
+### **Celebración doméstica**
 
-### **Anuncio de Pascua**
-
-* Fecha : lunes 07 de abril
-* Lugar: Parroquia de San Gabriel Arcangel 
-* Hora : 7:30 pm
-* Celebramos conjuntamente las comunidades de Santos Apostoles Simón y Judas  y las comunidades de San Gabriel Arcangel.
-* Nota: el anuncio reemplaza la palabra de esta semana
-
-</br></br>
-
-### **Celebraciones de Semana Santa**
-
-#### **Jueves Santo**
-
-* Hora :
-* Grupo que prepara :
-* Lugar: 
-* Equipo que prepara:
-
-
-#### **Viernes Santo**
-
-* Hora :
-* Grupo que prepara :
-* Lugar:
-* Equipo que prepara:
-
-
-</br></br>
-
-#### **Sábado Santo**
-
-</br></br>
-
-#### **Viguilia Pascual**
-
-</br></br>
-
-## **Convivencia de Inicio**
-
-* Fechas:  2,3 y 4 de mayo
-* Lugar: Casa de las Palmas
-
-</br></br>
-
-## **Celebración de Palabra**
-
-* Tema : Iglesia de Constantino hasta concilio de Trento
-* Fecha : martes 13 de mayo 
+* Fecha : Martes 20 de mayo
 * Hora : 7:00 pm
-* Grupo que entrega: Carmen Edith, Oneida, Carlos Alberto, Amparo
+* Tema : La Iglesia de Constantino hasta el concilio de Trento .
+
+</br></br>
+
+### **Celebración de Eucaristía**
+
+* Fecha: Domingo 24 de mayo 
+* Hora : 7:00 pm
+* Grupo que prepara: Daniel, Adriana, Marlene Asprilla, Maria del Carmen, Tomas.
+* Flores: Carmen Zoraida
+* Pan : Adriana
+
+</br></br>
+
+### **Celebración de Palabra**
+
+* Fecha : Martes 27 de mayo
+* Hora : 7:00 pm
+* Tema : La Iglesia de Constantino hasta el concilio de Trento 
+
+
+</br></br>
+
+
+### **Celebración de Palabra-Eucaristía**
+
+* Fecha: Sábado 31 de mayo
+* Hora : 7:00 pm
+* Grupo que prepara: Jhon Michel, Miroslava, Daniel, Adriana, Gerardo, Marlene.
+* Flores: Adriana
+
+
+</br></br>
+
+
+### **Convivencia cierre tema **
+
+* Fecha: Domingo 01 de junio
+* Hora : 10 am
+
+</br></br>
+
+
+### **Vigilia de Pentecostes**
+
+* Fecha: Sábado 7 de junio
+* Hora : 7:00 pm
+* Lugar : Parroquia de San Gabriel
+* Flores: Adriana y Carmen Zoraida
+* Pan : Oneida y Daniel
+
+</br></br>
+
+### **Convivencia de Pentecostes**
+
+* Fecha: Domingo 8 de junio
+* Lugar por definir
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

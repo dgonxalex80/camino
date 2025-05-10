@@ -1,0 +1,39 @@
+---
+title: "CONVIVENCIA DE INICIO DE CURSO"
+output:
+  html_document:
+    toc: no
+    toc_depth: 2
+    toc_float: yes
+    theme: cerulean
+css: _style.css
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, comment = NA)
+```
+
+</br></br>
+
+### Confirmados
+
+1.	Daniel Enrique 	González Gómez - ok
+2.	Adriana Corinne	Victoria Ramírez -ok
+3.	Marlene 	Aristizabal- ok
+4.	Gerardo	Saldaña-ok
+5.	Oneida Ilca 	Blandón Lotero
+6.	Carmen Zoraida	Soto Velasco-ok
+7.	Carmen Edith	Aranda-ok
+
+8.	Maruja 	Diaz Palacio
+9.	Miroslava 	Sarria Rengifo
+10.	Carlos Alberto	Jordan Muñoz - no por trabajo
+11.	Yolanda 	Arango
+12.	Amparo	Chates Pedraza
+13.	Maria Marlene	Asprilla de Bonilla
+14.	Tomás	Rodríguez
+15.	Zoraida 	Duque
+16.	Carlos Hernan	Uribe
+17.	Karen Alexandra	Dossman Grisales -no puede ir
+18.	Maria del Carmen	Cuellar

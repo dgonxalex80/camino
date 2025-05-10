@@ -1,0 +1,55 @@
+---
+title: "Ejemplo con fuente manuscrita"
+author: ""
+date: ""
+output:
+  pdf_document:
+    latex_engine: xelatex
+    keep_tex: true
+fontsize: 12pt
+mainfont: "Architects Daughter"  # O "Patrick Hand", "Kalam"
+geometry: letterpaper, top=1.5cm, bottom=1.5cm, left=2cm, right=2cm
+header-includes:
+  - \usepackage{amsmath}
+  - \usepackage{amssymb}
+---
+
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, comment = NA)
+library(gt)
+library(tidyverse)
+```
+
+\textbf{CUESTIONARIO - Convivencia de Inicio de curso  2024-2025}  
+
+
+Este inicio de curso 2024-2025 no pone delante de dos acontecimientos muy importantes para la vida de la Iglesia : el Sínodo y sobre todo, el Jubileo.
+
+El Cardenal San \textbf{Jhon Henry Newman} (Londres 1801-1890), convertido del anglicanismo al catolicismo, en una conferencia sobre la misión profética de la Iglesia, titulada : "\textbf{La pasión de Cristo continúa en su Iglesia}" (Conf.14) explica:
+
+En verdad, cuando analizamos toda la \textbf{historia del cristianismo desde sus orígenes}, descubrimos que \textbf{no es más que una serie de problemas y de desórdenes}.
+
+Cada siglo es igual a los demás, pero para quien lo vive, le parece peor que todos los tiempos anteriores. La Iglesia está siempre enferma y permanentemente débil, llevando siempre en su cuerpo la muerte de Jesús, para que también la vida de Jesús se manifieste en su cuerpo.
+
+Los profetas tienen razón al expresar: "¿Cuándo terminarán estas cosas maravillosas, Señor? ¿Cuanto durará este misterio?. \textbf{Solo Dios conoce el día y la hora} en que se cumplirá lo que debe suceder... . Mientras tanto, nos consuela contemplar lo que ha sucedido en el pasado, para que \textbf{no nos desesperemos no nos desanimemos ni nos angustiemos por los problemas que nos rodean}. Siempre ha habido problemas y siempre habrá problemas;  son nuestra herencia.
+
+El Papa Francisco en la Bula de convocatoria del Jubileo de 2025, lo presenta como el \textbf{Jubileo de la esperanza}, "Spes non Confidundit" (Rom 5,5).
+
+San Pablo escribe : "Nos gloriamos incluso en las tribulaciones, sabiendo que la tribulación produce paciencia, la paciencia virtud probada y la virtud probada esperanza". (Rom 5,3-4). Para el Apóstol, la tribulación y el sufrimiento son las condiciones típicas de los que anuncian el Evangelio en contexto de incomprensión y de persecución  (cf. 2Co 6,3-10). Pero en tales situaciones a través de la oscuridad se vislumbra una luz: se descubre cómo hay una fuerza que sustenta la evangelización que brota de la cruz y de la resurrección de Cristo. Esto lleva a desarrollar una virtud estrechamente relacionada con la esperanza: la paciencia ... De este entrelazado de esperanza y paciencia aparece de forma clara, cómo la vida cristiana es un camino, que necesita también momentos fuertes para nutrir y fortalecer la esperanza, compañera insustituible que deja entrever la meta : el encuentro con el Señor Jesús" (nn 4-5) .
+
+"Bajo el signo de la esperanza el apóstol Pablo infunde ánimo a la comunidad cristiana de Roma. La esperanza es también el mensaje central de próximo Jubileo. Pienso en todos los peregrinos de la esperanza que vendrán a Roma para vivir el Año Santo y en aquellos que no pudiendo venir a la ciudad de los apóstoles Pedro y Pablo, lo celebrarán en las Iglesias particulares. Que sea para todos un momento de encuentro vivo y personal con el Señor Jesús, "puerta" de salvación (cf. Jn 10, 7.9) con Él, a quien la Iglesia tiene la misión de anunciar siempre, en todas las partes y a todos como "nuestra esperanza (Tm 1,1)" (n.1).
+
+\vspace{.3cm}
+
+\textbf{PREGUNTAS} :
+
+\begin{itemize}
+	\item[1.] El próximo Jubileo es una nueva llamada a la santidad de vida. ¿Cómo  vives tú esta llamada a la santidad personalmente, en ti familia, en el Camino Neocatecumenal? ¿Qé dificultades encuentras? ¿Encuentras ayuda en la participación en tu comunidad?
+	\item[2.] En el mes de octubre se celebró el Sínodo deseado por el Papa Francisco. En tu opinión ¿cuál crees que la misión que el Señor encomienda al Camino Neocatecumenal ante los desafíos a los que se enfrenta la Iglesia en el mundo de hoy?
+\end{itemize}
+
+
+
+

@@ -163,18 +163,18 @@ knitr::include_graphics("img/separador.png")
 **Equipo**: Carmen Edith, Oneida, Carlos, Amparo
 
 
-* 1.  : Mayo 13: Celebración de Palabra
-* 2.  : Mayo 20: Catequesis
-* 3.  : Mayo 27: Celebración doméstica
-* 4.  : Junio 3: Celebración de Palabra
-* 5.  : Junio 8: Convivencia
+* 1.  Martes 06 de mayo: Celebración de Palabra
+* 2.  Martes 13 de mayo: Catequesis
+* 3.  Martes 20 de mayo: Celebración doméstica
+* 4.  Martes 27 de mayo: Celebración de Palabra
+* 5.  Domingo 01 de junio: Convivencia
 
 </br></br>
 
 
 #### **15. LA IGLESIA DEL CONCILIO DE TRENTO AL VATICANO II**
 
-**Equipo**: Maria del Carmen, Gerardo, Marlene, Maria Graciela, Maruja, Maelene, Jhon Michel.
+**Equipo**: Maria del Carmen, Gerardo, Marlene, Maria Graciela, Maruja, Marlene, Jhon Michel.
 
 
 <!-- * 1.  : Celebración de Palabra -->
@@ -188,7 +188,7 @@ knitr::include_graphics("img/separador.png")
 
 #### **16. EL CONCILIO VATICANO II**
 
-**Equipo**: Carlos Hernan, Zoraida, Carmen Zoraida, Tomas, Carlos Albeto, Mónica, Marlene, Daniel, Adriana
+**Equipo**: Carlos Hernan, Zoraida, Carmen Zoraida, Tomas, Carlos Alberto, Mónica, Daniel, Adriana
 
 
 <!-- * 1.  : Celebración de Palabra -->

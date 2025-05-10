@@ -1,0 +1,79 @@
+---
+title: ""
+author: ""
+date: ""
+output: pdf_document
+geometry: letterpaper, top=1cm, bottom=1cm, left=1cm, right=1cm
+fontsize: 12pt
+header-includes:
+  - \usepackage{lmodern}   # Fuente clara y legible en papel
+  - \usepackage{amsmath}
+  - \usepackage{amssymb}
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, comment = NA)
+library(gt)
+library(tidyverse)
+```
+
+
+\begin{center}
+CONVIVENCIA DE INICIO DE CURSO 2024-2025 \newline
+TRANSMISIÓN A LA COMUNIDAD \newline
+La Pizarra, Madrid 10-13 de Octubre de 2024 \newline
+\end{center}
+
+
+\begin{tabular}{|p{2cm}|p{12cm}|p{2cm}|}
+\hline
+VIERNES & &\\
+\hline
+7:00 pm & Llegada y distribución de habitaciones & Adriana \\
+\hline
+8:00 pm & Cena &\\
+\hline
+8:30 pm & Reunión & \\
+& Oración espontánea del présbitero o responsable &\\ 
+\newline
+& Invocación al Espiritu Santo - cantada & \\ 
+\newline
+& Noticias del camino pág 2-4, convivencia arzobispo Luis Fernando en Domus Galilea, Muerte del Papa Francisco & Daniel \\ 
+\newline
+& Monición a la lectura Mt 18, 1-35 (pág. 41-45) &  Marlene\\ 
+\newline
+& Proclamación lectura Mt 18, 1-35 & Gerardo \\ 
+\newline
+& Breve comentario pág 45-51 & Daniel \\ 
+\newline
+& Canto : Exultad justos al Señor & Marlene \\ 
+\newline
+& Oración del presbitero, catequista o responsable & Daniel \\ 
+\newline
+& Padre Nuestro  & \\ 
+\newline
+& Bendición si hay presbitero & \\ 
+\newline
+& Monición al silencio & \\ 
+\newline
+& se indica el horario en que se empieza el dia sábado - 8am desayuno & \\ 
+\hline
+\end{tabular}
+
+\begin{tabular}{|p{2cm}|p{12cm}|p{2cm}|}
+\hline
+SABADO & &\\
+
+\hline
+\end{tabular}
+
+
+
+\begin{tabular}{|p{2cm}|p{12cm}|p{2cm}|}
+\hline
+DOMINGO & &\\
+
+\hline
+\end{tabular}
+
