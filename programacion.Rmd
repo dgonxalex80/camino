@@ -59,7 +59,7 @@ knitr::include_graphics("img/calendario456.png")
 
 ### **Celebración de Eucaristía**
 
-* Fecha: Domingo 17 de mayo
+* Fecha: Sábado 17 de mayo
 * Hora : 7:00 pm
 * Grupo que prepara: Yolanda, Gerardo, Marlene, Maria Graciela, Amparo, Karen. 
 * Flores: Adriana 
@@ -93,7 +93,7 @@ knitr::include_graphics("img/calendario456.png")
 
 ### **Celebración de Eucaristía**
 
-* Fecha: Domingo 24 de mayo 
+* Fecha: Sábado 24 de mayo 
 * Hora : 7:00 pm
 * Grupo que prepara: Daniel, Adriana, Marlene Asprilla, Maria del Carmen, Tomas.
 * Flores: Carmen Zoraida
